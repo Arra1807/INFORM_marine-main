@@ -1,0 +1,18 @@
+Epoch 1/50: 100%|██████████| 3/3 [00:05<00:00,  1.91s/it]
+ Train Loss = 0.0772 ,Validation Loss = 0.0717
+Epoch 2/50: 100%|██████████| 3/3 [00:04<00:00,  1.53s/it]
+ Train Loss = 0.0679 ,Validation Loss = 0.0455
+Epoch 3/50: 100%|██████████| 3/3 [00:04<00:00,  1.39s/it]
+ Train Loss = 0.0604 ,Validation Loss = 0.0546
+Epoch 4/50: 100%|██████████| 3/3 [00:03<00:00,  1.22s/it]
+ Train Loss = 0.0519 ,Validation Loss = 0.0638
+Epoch 5/50: 100%|██████████| 3/3 [00:03<00:00,  1.14s/it]
+ Train Loss = 0.0442 ,Validation Loss = 0.0887
+Stopping early at epoch 5
+Epoch 6/50: 100%|██████████| 3/3 [00:03<00:00,  1.27s/it]
+ Train Loss = 0.0454 ,Validation Loss = 0.0803
+Stopping early at epoch 6
+Epoch 7/50: 100%|██████████| 3/3 [00:03<00:00,  1.26s/it]
+ Train Loss = 0.0452 ,Validation Loss = 0.0457
+Stopping early at epoch 7
+Epoch 8/50:  33%|███▎      | 1/3 [00:02<00:05,  2.82s/it]

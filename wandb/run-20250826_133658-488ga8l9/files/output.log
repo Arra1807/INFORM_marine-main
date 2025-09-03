@@ -1,0 +1,21 @@
+Number of patches per echogram for training: [np.int64(37), np.int64(7), np.int64(16), np.int64(9), np.int64(10), np.int64(7), np.int64(10), np.int64(8)]
+Number of patches per echogram for testing: [np.int64(21), np.int64(7)]
+Total number of training patches: 104
+Total number of testing patches: 28
+-------Dimensions for Training set-------------
+data shape: torch.Size([60, 6, 224, 224])
+data shape: torch.Size([44, 6, 224, 224])
+-------Dimensions for Test set-------------
+data shape: torch.Size([28, 6, 224, 224])
+lr 0.001
+weight decay 0.0001
+epochs 20
+Epoch 1/20: 100%|██████████| 2/2 [00:27<00:00, 13.53s/it]
+Train encodings: min=0.0000, max=1.0000
+Val latents: min=0.0000, max=0.9999
+ Train Loss = 0.1048 ,Validation Loss = 0.0951
+Epoch 2/20: 100%|██████████| 2/2 [00:39<00:00, 19.70s/it]
+Train encodings: min=0.0001, max=0.9997
+Val latents: min=0.0002, max=0.9996
+ Train Loss = 0.0765 ,Validation Loss = 0.0772
+Epoch 3/20:   0%|          | 0/2 [00:00<?, ?it/s]

@@ -1,0 +1,31 @@
+{"time":"2025-09-03T10:44:10.8498808+02:00","level":"INFO","msg":"stream: starting","core version":"0.21.1"}
+{"time":"2025-09-03T10:44:13.0482864+02:00","level":"INFO","msg":"stream: created new stream","id":"5wma18mb"}
+{"time":"2025-09-03T10:44:13.0482864+02:00","level":"INFO","msg":"writer: started","stream_id":"5wma18mb"}
+{"time":"2025-09-03T10:44:13.0488322+02:00","level":"INFO","msg":"stream: started","id":"5wma18mb"}
+{"time":"2025-09-03T10:44:13.0482864+02:00","level":"INFO","msg":"handler: started","stream_id":"5wma18mb"}
+{"time":"2025-09-03T10:44:13.0488322+02:00","level":"INFO","msg":"sender: started","stream_id":"5wma18mb"}
+{"time":"2025-09-03T10:44:43.496803+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:44:58.4961869+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:45:13.4944923+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:45:28.4939106+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:45:43.4914241+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:45:58.4945814+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:46:13.4932963+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:46:28.4934209+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:46:43.4930575+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:46:58.4938483+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:47:13.5018125+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:47:28.4936675+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:47:43.4986261+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:47:58.4971501+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:48:13.4950922+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:48:28.4946201+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:48:43.4950896+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:48:58.4971634+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:49:13.4923175+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T10:59:49.0021939+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-09-03T10:59:49.273842+02:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-09-03T10:59:49.3625645+02:00","level":"INFO","msg":"stream: closing","id":"5wma18mb"}
+{"time":"2025-09-03T10:59:49.3631635+02:00","level":"INFO","msg":"handler: closed","stream_id":"5wma18mb"}
+{"time":"2025-09-03T10:59:49.3644518+02:00","level":"INFO","msg":"sender: closed","stream_id":"5wma18mb"}
+{"time":"2025-09-03T10:59:49.3644518+02:00","level":"INFO","msg":"stream: closed","id":"5wma18mb"}

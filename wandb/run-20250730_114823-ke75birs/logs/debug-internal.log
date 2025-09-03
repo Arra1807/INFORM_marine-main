@@ -1,0 +1,20 @@
+{"time":"2025-07-30T11:48:24.3135136+02:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-30T11:48:24.583933+02:00","level":"INFO","msg":"stream: created new stream","id":"ke75birs"}
+{"time":"2025-07-30T11:48:24.583933+02:00","level":"INFO","msg":"stream: started","id":"ke75birs"}
+{"time":"2025-07-30T11:48:24.583933+02:00","level":"INFO","msg":"sender: started","stream_id":"ke75birs"}
+{"time":"2025-07-30T11:48:24.583933+02:00","level":"INFO","msg":"handler: started","stream_id":"ke75birs"}
+{"time":"2025-07-30T11:48:24.5844776+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"ke75birs"}
+{"time":"2025-07-30T11:48:39.891492+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T11:48:54.8618237+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T11:49:09.8608244+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T11:49:24.860807+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T11:49:39.8533376+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T11:49:54.8568739+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T11:50:09.85563+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T11:50:20.4218607+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-30T11:50:20.6870316+02:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-07-30T11:50:20.7080752+02:00","level":"INFO","msg":"stream: closing","id":"ke75birs"}
+{"time":"2025-07-30T11:50:20.7080752+02:00","level":"INFO","msg":"handler: closed","stream_id":"ke75birs"}
+{"time":"2025-07-30T11:50:20.7080752+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ke75birs"}
+{"time":"2025-07-30T11:50:20.7080752+02:00","level":"INFO","msg":"sender: closed","stream_id":"ke75birs"}
+{"time":"2025-07-30T11:50:20.7099648+02:00","level":"INFO","msg":"stream: closed","id":"ke75birs"}

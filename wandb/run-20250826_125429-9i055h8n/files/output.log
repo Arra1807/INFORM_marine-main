@@ -1,0 +1,53 @@
+Epoch 1/20: 100%|██████████| 2/2 [01:00<00:00, 30.32s/it]
+Train encodings: min=0.0016, max=0.9900
+Val latents: min=0.0010, max=0.9924
+ Train Loss = 0.1139 ,Validation Loss = 0.1289
+Epoch 2/20: 100%|██████████| 2/2 [00:32<00:00, 16.26s/it]
+Train encodings: min=0.0016, max=0.9896
+Val latents: min=0.0010, max=0.9925
+ Train Loss = 0.1084 ,Validation Loss = 0.1631
+Epoch 3/20: 100%|██████████| 2/2 [00:29<00:00, 14.71s/it]
+Train encodings: min=0.0016, max=0.9895
+Val latents: min=0.0010, max=0.9925
+ Train Loss = 0.1256 ,Validation Loss = 0.1347
+Epoch 4/20: 100%|██████████| 2/2 [00:32<00:00, 16.44s/it]
+Train encodings: min=0.0016, max=0.9896
+Val latents: min=0.0010, max=0.9926
+ Train Loss = 0.1261 ,Validation Loss = 0.1614
+Epoch 5/20: 100%|██████████| 2/2 [00:28<00:00, 14.19s/it]
+Train encodings: min=0.0016, max=0.9897
+Val latents: min=0.0010, max=0.9927
+ Train Loss = 0.1070 ,Validation Loss = 0.1335
+Epoch 6/20: 100%|██████████| 2/2 [00:26<00:00, 13.31s/it]
+Train encodings: min=0.0016, max=0.9897
+Val latents: min=0.0011, max=0.9926
+ Train Loss = 0.1067 ,Validation Loss = 0.1268
+Epoch 7/20: 100%|██████████| 2/2 [00:25<00:00, 12.63s/it]
+Train encodings: min=0.0016, max=0.9897
+Val latents: min=0.0011, max=0.9926
+ Train Loss = 0.1084 ,Validation Loss = 0.1264
+Epoch 8/20: 100%|██████████| 2/2 [00:23<00:00, 11.75s/it]
+Train encodings: min=0.0016, max=0.9897
+Val latents: min=0.0011, max=0.9925
+ Train Loss = 0.1079 ,Validation Loss = 0.1603
+Epoch 9/20: 100%|██████████| 2/2 [00:22<00:00, 11.03s/it]
+Train encodings: min=0.0016, max=0.9896
+Val latents: min=0.0011, max=0.9925
+ Train Loss = 0.1221 ,Validation Loss = 0.1255
+Epoch 10/20:  50%|█████     | 1/2 [00:17<00:17, 17.65s/it]
+No such comm: fba786cdac6e4f82b7e748ce303c2974
+No such comm: 5b3dbd7726ae4752bc99739dccbe8dd2
+No such comm: 0ef7feca05104706ab160e103263cd94
+No such comm: a98caa2edc1844159ec7b1c0370670e7
+No such comm: 67365c1496ab444eac5eaed11b2042b7
+No such comm: aac50c299b7f4fc18768e2618c7d46c7
+No such comm: 07c5ab5c5ab5439fa720699c0d1ecfe2
+No such comm: be0a8bc6e823453d8997fad69cae1b4a
+No such comm: f2d1feeb1194423a94216200c73a9cd5
+No such comm: dfe8c00746b043a4962def1c861079ec
+No such comm: cf3b52c3200d4baeb4338ecd0e8a1b41
+No such comm: c6ce7badda9c4ecba40988a547fd12cc
+No such comm: 7cd7f4b866c74d3fbc2649c574182f96
+No such comm: bc0b401013ce4bcc824ec684f986bb9f
+No such comm: 81610cf4b1bb45acbe164e86cd8e54c7
+No such comm: bd1303862f954cc5afc4be83f7390a3d

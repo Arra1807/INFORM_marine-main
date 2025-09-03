@@ -1,0 +1,80 @@
+Number of patches per echogram for training: [8, 37, 16, 8, 10, 10, 7, 7]
+Number of patches per echogram for testing: [9, 21]
+Total number of training patches: 103
+Total number of testing patches: 30
+No such comm: 547e74ffa4f840baa7ad3be592502a9f
+No such comm: 3c8c4be8c0cb45f9a82d13018c2833d5
+No such comm: 948a860bb2774775b2ffefbf6e643aa9
+No such comm: 07bb149b3b3a40f792940f0e50a3629d
+No such comm: d211361b28bf47efb1d61885e811ef12
+No such comm: 1e5c5488e33e4fadbb2252687b984e1d
+No such comm: e2155a98c47c40e5a941dde3abd4aabb
+No such comm: 64b5c38a5a7e414ca787e65bca68045f
+No such comm: e939625ca7a54ba9927a11164989bbcf
+No such comm: 990747c76cc54dd19055bd1d2414bb4a
+No such comm: f764247e2b18446689a0ba7337db9d3e
+No such comm: 797cc534cfcd49c19d73db15f4531511
+No such comm: 21c02f6a0d0a4b93b92c645d3cb264e7
+No such comm: 18772478211c4af0b0cd354f69aa08b0
+No such comm: ccfaa317f7e4476e8eea805a0b7a23ca
+No such comm: 6d6cbef26d0441dcb5a3b40e6838f9d6
+-------Dimensions for Training set-------------
+data shape: torch.Size([61, 6, 224, 224])
+data shape: torch.Size([42, 6, 224, 224])
+-------Dimensions for Test set-------------
+Shape of all training data: torch.Size([103, 6, 224, 224])
+Shape of all validation data: torch.Size([30, 6, 224, 224])
+Shape of all training data: torch.Size([103, 6, 224, 224])
+Shape of all validation data: torch.Size([30, 6, 224, 224])
+lr 0.001
+weight decay 0.0001
+epochs 20
+Epoch 1/20: 100%|██████████| 2/2 [00:26<00:00, 13.30s/it]
+Train encodings: min=0.0000, max=0.9999
+Val latents: min=0.0004, max=0.9992
+ Train Loss = 0.1266 ,Validation Loss = 0.1333
+Epoch 2/20: 100%|██████████| 2/2 [00:35<00:00, 17.58s/it]
+Train encodings: min=0.0002, max=0.9996
+Val latents: min=0.0035, max=0.9926
+ Train Loss = 0.1011 ,Validation Loss = 0.1025
+Epoch 3/20: 100%|██████████| 2/2 [00:58<00:00, 29.11s/it]
+Train encodings: min=0.0033, max=0.9933
+Val latents: min=0.0096, max=0.9808
+ Train Loss = 0.0880 ,Validation Loss = 0.0991
+Epoch 4/20: 100%|██████████| 2/2 [01:34<00:00, 47.39s/it]
+Train encodings: min=0.0127, max=0.9746
+Val latents: min=0.0187, max=0.9627
+ Train Loss = 0.0738 ,Validation Loss = 0.0861
+Epoch 5/20: 100%|██████████| 2/2 [00:43<00:00, 21.89s/it]
+Train encodings: min=0.0230, max=0.9540
+Val latents: min=0.0290, max=0.9420
+ Train Loss = 0.0646 ,Validation Loss = 0.0689
+Epoch 6/20: 100%|██████████| 2/2 [00:39<00:00, 19.96s/it]
+Train encodings: min=0.0293, max=0.9413
+Val latents: min=0.0389, max=0.9222
+ Train Loss = 0.0543 ,Validation Loss = 0.0630
+Epoch 7/20: 100%|██████████| 2/2 [00:52<00:00, 26.03s/it]
+Train encodings: min=0.0424, max=0.9151
+Val latents: min=0.0500, max=0.9000
+ Train Loss = 0.0458 ,Validation Loss = 0.0505
+Epoch 8/20: 100%|██████████| 2/2 [00:40<00:00, 20.42s/it]
+Train encodings: min=0.0492, max=0.9015
+Val latents: min=0.0620, max=0.8760
+ Train Loss = 0.0388 ,Validation Loss = 0.0445
+Epoch 9/20: 100%|██████████| 2/2 [00:43<00:00, 21.52s/it]
+Train encodings: min=0.0508, max=0.8984
+Val latents: min=0.0648, max=0.8704
+ Train Loss = 0.0340 ,Validation Loss = 0.0374
+Epoch 10/20: 100%|██████████| 2/2 [00:40<00:00, 20.10s/it]
+Train encodings: min=0.0487, max=0.9015
+Val latents: min=0.0617, max=0.8747
+ Train Loss = 0.0291 ,Validation Loss = 0.0326
+Epoch 11/20: 100%|██████████| 2/2 [00:38<00:00, 19.33s/it]
+Train encodings: min=0.0378, max=0.9198
+Val latents: min=0.0572, max=0.8857
+ Train Loss = 0.0268 ,Validation Loss = 0.0318
+Epoch 12/20: 100%|██████████| 2/2 [00:45<00:00, 22.83s/it]
+Train encodings: min=0.0248, max=0.9450
+Val latents: min=0.0527, max=0.8947
+ Train Loss = 0.0229 ,Validation Loss = 0.0290
+Epoch 13/20:  50%|█████     | 1/2 [00:35<

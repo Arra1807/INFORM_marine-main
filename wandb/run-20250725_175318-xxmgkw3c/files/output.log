@@ -1,0 +1,10 @@
+Epoch 1/50: 100%|██████████| 3/3 [00:03<00:00,  1.13s/it]
+Train encodings: min=0.0051, max=0.9873
+Train Loss = 0.0747
+Val encodings: min=0.2246, max=0.8749
+ Validation Loss = 0.0502
+Epoch 1/50: 100%|██████████| 3/3 [00:02<00:00,  1.18it/s]
+Train encodings: min=0.0028, max=0.9914
+Train Loss = 0.0743
+Val encodings: min=0.2367, max=0.8792
+ Validation Loss = 0.0492

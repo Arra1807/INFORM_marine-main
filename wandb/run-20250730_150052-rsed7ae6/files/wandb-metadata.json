@@ -1,0 +1,24 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "CPython 3.12.5",
+  "startedAt": "2025-07-30T13:00:52.299694Z",
+  "program": "c:\\Users\\shado\\Documents\\Master Thesis\\INFORM_marine-main_new\\INFORM_marine-main\\data_patching.ipynb",
+  "codePath": "data_patching.ipynb",
+  "codePathLocal": "data_patching.ipynb",
+  "email": "arangan18@hotmail.com",
+  "root": "c:\\Users\\shado\\Documents\\Master Thesis\\INFORM_marine-main_new\\INFORM_marine-main",
+  "host": "Asus",
+  "executable": "c:\\Users\\shado\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "510665232384",
+      "used": "260847206400"
+    }
+  },
+  "memory": {
+    "total": "6387490816"
+  },
+  "writerId": "wzcr4f7wgpap75glwpptk6tdxey8d22x"
+}

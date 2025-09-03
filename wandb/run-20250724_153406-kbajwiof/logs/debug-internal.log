@@ -1,0 +1,14 @@
+{"time":"2025-07-24T15:34:07.7898239+02:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-24T15:34:08.3143059+02:00","level":"INFO","msg":"stream: created new stream","id":"kbajwiof"}
+{"time":"2025-07-24T15:34:08.3148299+02:00","level":"INFO","msg":"handler: started","stream_id":"kbajwiof"}
+{"time":"2025-07-24T15:34:08.3148299+02:00","level":"INFO","msg":"stream: started","id":"kbajwiof"}
+{"time":"2025-07-24T15:34:08.3148299+02:00","level":"INFO","msg":"sender: started","stream_id":"kbajwiof"}
+{"time":"2025-07-24T15:34:08.3148299+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"kbajwiof"}
+{"time":"2025-07-24T15:34:23.7484931+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T15:34:38.7406153+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T15:34:53.7433901+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T15:35:08.7454077+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T15:35:23.7577208+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T15:35:38.7459094+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T15:35:53.7474609+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T15:36:08.7595136+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}

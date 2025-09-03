@@ -1,0 +1,19 @@
+{"time":"2025-07-30T15:03:55.3674941+02:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-30T15:03:55.7121385+02:00","level":"INFO","msg":"stream: created new stream","id":"7xjbl8kd"}
+{"time":"2025-07-30T15:03:55.7121385+02:00","level":"INFO","msg":"stream: started","id":"7xjbl8kd"}
+{"time":"2025-07-30T15:03:55.7121385+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"7xjbl8kd"}
+{"time":"2025-07-30T15:03:55.7121385+02:00","level":"INFO","msg":"handler: started","stream_id":"7xjbl8kd"}
+{"time":"2025-07-30T15:03:55.7121385+02:00","level":"INFO","msg":"sender: started","stream_id":"7xjbl8kd"}
+{"time":"2025-07-30T15:04:11.2500855+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:04:26.2455248+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:04:41.2469809+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:04:56.2473674+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:05:11.2690009+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:05:26.2480355+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:05:32.4944453+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-30T15:05:32.667889+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 6-6","runtime_seconds":0.1729057}],"total_operations":1}}
+{"time":"2025-07-30T15:05:32.8048344+02:00","level":"INFO","msg":"stream: closing","id":"7xjbl8kd"}
+{"time":"2025-07-30T15:05:32.8048344+02:00","level":"INFO","msg":"handler: closed","stream_id":"7xjbl8kd"}
+{"time":"2025-07-30T15:05:32.8048344+02:00","level":"INFO","msg":"sender: closed","stream_id":"7xjbl8kd"}
+{"time":"2025-07-30T15:05:32.8048344+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"7xjbl8kd"}
+{"time":"2025-07-30T15:05:32.8053476+02:00","level":"INFO","msg":"stream: closed","id":"7xjbl8kd"}

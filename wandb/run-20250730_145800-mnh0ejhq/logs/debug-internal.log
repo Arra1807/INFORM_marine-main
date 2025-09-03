@@ -1,0 +1,16 @@
+{"time":"2025-07-30T14:58:01.1929012+02:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-30T14:58:01.6265094+02:00","level":"INFO","msg":"stream: created new stream","id":"mnh0ejhq"}
+{"time":"2025-07-30T14:58:01.6270452+02:00","level":"INFO","msg":"stream: started","id":"mnh0ejhq"}
+{"time":"2025-07-30T14:58:01.6270452+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"mnh0ejhq"}
+{"time":"2025-07-30T14:58:01.6270452+02:00","level":"INFO","msg":"handler: started","stream_id":"mnh0ejhq"}
+{"time":"2025-07-30T14:58:01.6270452+02:00","level":"INFO","msg":"sender: started","stream_id":"mnh0ejhq"}
+{"time":"2025-07-30T14:58:17.0010109+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T14:58:31.995243+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T14:58:46.9957888+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T14:58:59.6837449+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-30T14:58:59.854289+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 2-2","runtime_seconds":0.1694006}],"total_operations":1}}
+{"time":"2025-07-30T14:59:00.0465138+02:00","level":"INFO","msg":"stream: closing","id":"mnh0ejhq"}
+{"time":"2025-07-30T14:59:00.0471466+02:00","level":"INFO","msg":"handler: closed","stream_id":"mnh0ejhq"}
+{"time":"2025-07-30T14:59:00.0471466+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"mnh0ejhq"}
+{"time":"2025-07-30T14:59:00.0471466+02:00","level":"INFO","msg":"sender: closed","stream_id":"mnh0ejhq"}
+{"time":"2025-07-30T14:59:00.0476584+02:00","level":"INFO","msg":"stream: closed","id":"mnh0ejhq"}

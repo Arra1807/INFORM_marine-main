@@ -1,0 +1,18 @@
+{"time":"2025-09-02T12:23:55.3049959+02:00","level":"INFO","msg":"stream: starting","core version":"0.21.1"}
+{"time":"2025-09-02T12:23:56.2268349+02:00","level":"INFO","msg":"stream: created new stream","id":"tem48pd0"}
+{"time":"2025-09-02T12:23:56.2268349+02:00","level":"INFO","msg":"handler: started","stream_id":"tem48pd0"}
+{"time":"2025-09-02T12:23:56.2268349+02:00","level":"INFO","msg":"sender: started","stream_id":"tem48pd0"}
+{"time":"2025-09-02T12:23:56.2268349+02:00","level":"INFO","msg":"writer: started","stream_id":"tem48pd0"}
+{"time":"2025-09-02T12:23:56.2273577+02:00","level":"INFO","msg":"stream: started","id":"tem48pd0"}
+{"time":"2025-09-02T12:24:11.522949+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-02T12:24:26.5216614+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-02T12:24:41.5287092+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-02T12:32:00.650055+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/arangan18-university-of-oslo/Adapter/tem48pd0/file_stream\": unexpected EOF"}
+{"time":"2025-09-02T12:33:20.613739+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/arangan18-university-of-oslo/Adapter/tem48pd0/file_stream\": unexpected EOF"}
+{"time":"2025-09-02T12:33:41.5753137+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/arangan18-university-of-oslo/Adapter/tem48pd0/file_stream\": unexpected EOF"}
+{"time":"2025-09-02T12:34:40.9991658+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"updating run metadata","runtime_seconds":1.3019113}],"total_operations":1}}
+{"time":"2025-09-02T12:34:46.2476789+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-09-02T12:34:52.5547415+02:00","level":"INFO","msg":"stream: closing","id":"tem48pd0"}
+{"time":"2025-09-02T12:34:52.5552752+02:00","level":"INFO","msg":"handler: closed","stream_id":"tem48pd0"}
+{"time":"2025-09-02T12:34:52.5593312+02:00","level":"INFO","msg":"sender: closed","stream_id":"tem48pd0"}
+{"time":"2025-09-02T12:34:52.5593312+02:00","level":"INFO","msg":"stream: closed","id":"tem48pd0"}

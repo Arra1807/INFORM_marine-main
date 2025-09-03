@@ -1,0 +1,32 @@
+Number of patches per echogram for training: [7, 4, 4, 5, 5, 6, 6, 7]
+Number of patches per echogram for testing: [6, 6]
+Total number of training generators: 8
+Total number of testing generators: 2
+No such comm: c2c2e1f4f8094cdeba3dcbe53fdb43d0
+No such comm: 5f4dc17cb6f849ccb6a92814dcaf9fbb
+No such comm: da70f603c0db405e899078cad317a2bd
+No such comm: 0e78733eb79148b8b258eb02d71c990e
+No such comm: 20d8844294a740059afe393b9fce013f
+No such comm: 6029424dbf3449a0b25847cbc1ae8e5d
+No such comm: f57babcc9d194a69bde7999f1af2b3db
+No such comm: ca68951f32ab4ab485b8237de1c7338d
+-------Dimensions for Training set-------------
+Data shape: torch.Size([44, 6, 448, 448])
+-------Dimensions for Test set-------------
+Data shape: torch.Size([12, 6, 448, 448])
+No such comm: a35dad08f0a24c58b50f5d0f24e7ba00
+No such comm: f60e9a86b1d34f9cb9afc5aa5c082273
+No such comm: 1e896070e93d49c9ac102f5dcc2c66a1
+No such comm: 2570440ed6e448e68e025062327271ca
+No such comm: 7b09695eb2cb4a3b809a396da37b338a
+No such comm: 6da88a9e13e245ff9530da6386424076
+No such comm: 570f5fa6482d436d9b27955dd994210f
+Epoch 1/50:   0%|          | 0/1 [00:00<?, ?it/s]c:\Users\shado\anaconda3\Lib\site-packages\torch\nn\modules\loss.py:538: UserWarning: Using a target size (torch.Size([44, 6, 448, 448])) that is different to the input size (torch.Size([44, 6, 28, 28])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  return F.mse_loss(input, target, reduction=self.reduction)
+Epoch 1/50:   0%|          | 0/1 [09:34<?, ?it/s]
+No such comm: 9829e51c0ef84302bfc5559f3a42e485
+Selected 10 echograms from year 2014
+Number of echograms: 10
+Selected 10 echograms from year 2014
+Selected 10 echograms from year 2015
+Number of echograms: 20

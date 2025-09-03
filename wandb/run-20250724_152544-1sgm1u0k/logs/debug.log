@@ -1,0 +1,70 @@
+2025-07-24 15:25:44,051 INFO    MainThread:31764 [wandb_setup.py:_flush():80] Current SDK version is 0.21.0
+2025-07-24 15:25:44,052 INFO    MainThread:31764 [wandb_setup.py:_flush():80] Configure stats pid to 31764
+2025-07-24 15:25:44,052 INFO    MainThread:31764 [wandb_setup.py:_flush():80] Loading settings from C:\Users\shado\.config\wandb\settings
+2025-07-24 15:25:44,052 INFO    MainThread:31764 [wandb_setup.py:_flush():80] Loading settings from c:\Users\shado\Documents\Master Thesis\INFORM_marine-main_new\INFORM_marine-main\wandb\settings
+2025-07-24 15:25:44,052 INFO    MainThread:31764 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2025-07-24 15:25:44,052 INFO    MainThread:31764 [wandb_init.py:setup_run_log_directory():703] Logging user logs to c:\Users\shado\Documents\Master Thesis\INFORM_marine-main_new\INFORM_marine-main\wandb\run-20250724_152544-1sgm1u0k\logs\debug.log
+2025-07-24 15:25:44,054 INFO    MainThread:31764 [wandb_init.py:setup_run_log_directory():704] Logging internal logs to c:\Users\shado\Documents\Master Thesis\INFORM_marine-main_new\INFORM_marine-main\wandb\run-20250724_152544-1sgm1u0k\logs\debug-internal.log
+2025-07-24 15:25:44,054 INFO    MainThread:31764 [wandb_init.py:monkeypatch_ipython():622] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001F81301BF80>
+2025-07-24 15:25:44,055 INFO    MainThread:31764 [wandb_init.py:init():830] calling init triggers
+2025-07-24 15:25:44,055 INFO    MainThread:31764 [wandb_init.py:init():835] wandb.init called with sweep_config: {}
+config: {'model': ResNetAutoEncoder(
+  (encoder): Sequential(
+    (0): Conv2d(6, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU(inplace=True)
+    (3): Identity()
+    (4): Sequential(
+      (0): BasicBlock(
+        (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+        (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (1): BasicBlock(
+        (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+        (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+  )
+  (compressor): Sequential(
+    (0): Conv2d(64, 3, kernel_size=(1, 1), stride=(1, 1))
+    (1): BatchNorm2d(3, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): Sigmoid()
+  )
+  (decoder): Sequential(
+    (0): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Conv2d(64, 6, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (4): Sigmoid()
+  )
+), 'batch_size': 32, 'learning_rate': 0.001, 'epochs': 50, '_wandb': {}}
+2025-07-24 15:25:44,055 INFO    MainThread:31764 [wandb_init.py:init():871] starting backend
+2025-07-24 15:25:44,790 INFO    MainThread:31764 [wandb_init.py:init():874] sending inform_init request
+2025-07-24 15:25:44,962 INFO    MainThread:31764 [wandb_init.py:init():882] backend started and connected
+2025-07-24 15:25:44,966 INFO    MainThread:31764 [wandb_run.py:_label_probe_notebook():1304] probe notebook
+2025-07-24 15:25:44,971 INFO    MainThread:31764 [wandb_init.py:init():953] updated telemetry
+2025-07-24 15:25:44,972 INFO    MainThread:31764 [wandb_init.py:init():977] communicating run to backend with 90.0 second timeout
+2025-07-24 15:25:46,543 INFO    MainThread:31764 [wandb_init.py:init():1029] starting run threads in backend
+2025-07-24 15:25:50,059 INFO    MainThread:31764 [wandb_run.py:_console_start():2458] atexit reg
+2025-07-24 15:25:50,059 INFO    MainThread:31764 [wandb_run.py:_redirect():2306] redirect: wrap_raw
+2025-07-24 15:25:50,060 INFO    MainThread:31764 [wandb_run.py:_redirect():2375] Wrapping output streams.
+2025-07-24 15:25:50,060 INFO    MainThread:31764 [wandb_run.py:_redirect():2398] Redirects installed.
+2025-07-24 15:25:50,071 INFO    MainThread:31764 [wandb_init.py:init():1075] run started, returning control to user process
+2025-07-24 15:25:50,086 INFO    MainThread:31764 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-07-24 15:26:11,582 INFO    MainThread:31764 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-07-24 15:26:11,583 INFO    MainThread:31764 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-07-24 15:26:12,023 INFO    MainThread:31764 [wandb_run.py:_finish():2224] finishing run arangan18-university-of-oslo/Adapter/1sgm1u0k
+2025-07-24 15:26:12,029 INFO    MainThread:31764 [jupyter.py:save_ipynb():404] not saving jupyter notebook
+2025-07-24 15:26:12,029 INFO    MainThread:31764 [wandb_init.py:_jupyter_teardown():607] cleaning up jupyter logic
+2025-07-24 15:26:12,029 INFO    MainThread:31764 [wandb_run.py:_atexit_cleanup():2423] got exitcode: 0
+2025-07-24 15:26:12,029 INFO    MainThread:31764 [wandb_run.py:_restore():2405] restore
+2025-07-24 15:26:12,030 INFO    MainThread:31764 [wandb_run.py:_restore():2411] restore done
+2025-07-24 15:26:13,152 INFO    MainThread:31764 [wandb_run.py:_footer_history_summary_info():3903] rendering history
+2025-07-24 15:26:13,152 INFO    MainThread:31764 [wandb_run.py:_footer_history_summary_info():3935] rendering summary
+2025-07-24 15:26:13,153 INFO    MainThread:31764 [wandb_run.py:_footer_sync_info():3864] logging synced files

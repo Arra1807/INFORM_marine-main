@@ -1,0 +1,158 @@
+Number of patches per echogram for training: [np.int64(16), np.int64(20), np.int64(22), np.int64(18), np.int64(26), np.int64(26), np.int64(7), np.int64(7)]
+Number of patches per echogram for testing: [np.int64(56), np.int64(26)]
+-------Dimensions for Training set-------------
+Data shape: torch.Size([142, 6, 224, 224])
+-------Dimensions for Test set-------------
+Data shape: torch.Size([82, 6, 224, 224])
+-------Dimensions for Training set-------------
+-------Dimensions for Training set-------------
+Data shape: torch.Size([58, 6, 224, 224])
+Data shape: torch.Size([44, 6, 224, 224])
+Data shape: torch.Size([40, 6, 224, 224])
+-------Dimensions for Test set-------------
+Data shape: torch.Size([56, 6, 224, 224])
+Data shape: torch.Size([26, 6, 224, 224])
+-------Dimensions for Training set-------------
+Data shape: torch.Size([58, 6, 224, 224])
+Data shape: torch.Size([44, 6, 224, 224])
+Data shape: torch.Size([40, 6, 224, 224])
+-------Dimensions for Test set-------------
+Data shape: 56
+Data shape: 26
+-------Dimensions for Training set-------------
+Data shape: 58
+Data shape: 44
+Data shape: 40
+-------Dimensions for Test set-------------
+Data shape: 56
+Data shape: 26
+-------Dimensions for Training set-------------
+Data shape: 40
+Data shape: 58
+Data shape: 44
+-------Dimensions for Test set-------------
+Data shape: 56
+Data shape: 26
+-------Dimensions for Training set-------------
+-------Dimensions for Training set-------------
+Data shape: 44
+Data shape: 58
+Data shape: 40
+-------Dimensions for Test set-------------
+Data shape: 56
+Data shape: 26
+-------Dimensions for Training set-------------
+Data shape: 66
+Data shape: 76
+-------Dimensions for Test set-------------
+Data shape: 82
+-------Dimensions for Training set-------------
+Data shape: 142
+-------Dimensions for Test set-------------
+Data shape: 82
+-------Dimensions for Training set-------------
+Data shape: 142
+-------Dimensions for Test set-------------
+Data shape: 82
+-------Dimensions for Training set-------------
+Data shape: 40
+Data shape: 102
+-------Dimensions for Test set-------------
+Data shape: 82
+-------Dimensions for Training set-------------
+Data shape: 40
+Data shape: 36
+Data shape: 26
+Data shape: 40
+-------Dimensions for Test set-------------
+Data shape: 82
+-------Dimensions for Training set-------------
+Data shape: 40
+Data shape: 26
+Data shape: 36
+Data shape: 40
+-------Dimensions for Test set-------------
+Data shape: 56
+Data shape: 26
+-------Dimensions for Training set-------------
+Data shape: 14
+Data shape: 18
+Data shape: 26
+Data shape: 26
+Data shape: 20
+Data shape: 22
+Data shape: 16
+-------Dimensions for Test set-------------
+Data shape: 56
+Data shape: 26
+-------Dimensions for Training set-------------
+Data shape: 26
+Data shape: 18
+Data shape: 22
+Data shape: 20
+Data shape: 14
+Data shape: 16
+Data shape: 26
+-------Dimensions for Test set-------------
+-------Dimensions for Training set-------------
+Data shape: 26
+Data shape: 16
+Data shape: 26
+Data shape: 14
+Data shape: 18
+Data shape: 20
+Data shape: 22
+-------Dimensions for Test set-------------
+-------Dimensions for Training set-------------
+Data shape: 20
+Data shape: 22
+Data shape: 26
+Data shape: 14
+Data shape: 26
+Data shape: 16
+Data shape: 18
+-------Dimensions for Test set-------------
+-------Dimensions for Training set-------------
+Data shape: 18
+Data shape: 16
+Data shape: 26
+Data shape: 14
+Data shape: 20
+Data shape: 26
+Data shape: 22
+-------Dimensions for Test set-------------
+Data shape: 56
+Data shape: 26
+-------Dimensions for Training set-------------
+Data shape: 76
+Data shape: 66
+-------Dimensions for Test set-------------
+Data shape: 82
+-------Dimensions for Training set-------------
+Data shape: 66
+Data shape: 76
+-------Dimensions for Test set-------------
+Data shape: 82
+-------Dimensions for Training set-------------
+Data shape: 76
+Data shape: 66
+-------Dimensions for Test set-------------
+Data shape: 82
+-------Dimensions for Training set-------------
+Data shape: 76
+Data shape: 66
+-------Dimensions for Test set-------------
+Data shape: 82
+-------Dimensions for Training set-------------
+Data shape: 1
+-------Dimensions for Test set-------------
+Data shape: 82
+-------Dimensions for Training set-------------
+Data shape: torch.Size([1, 142, 6, 224, 224])
+-------Dimensions for Test set-------------
+Data shape: torch.Size([1, 82, 6, 224, 224])
+-------Dimensions for Training set-------------
+Data shape: torch.Size([142, 6, 224, 224])
+-------Dimensions for Test set-------------
+Data shape: torch.Size([82, 6, 224, 224])
+Epoch 1/50:   0%|          | 0/1 [00:00<?, ?it/s]

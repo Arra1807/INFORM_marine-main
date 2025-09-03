@@ -1,0 +1,284 @@
+668
+168
+Epoch 1/70: 100%|██████████| 11/11 [00:01<00:00,  7.22it/s]
+ Train Loss = 0.0326 ,Validation Loss = 0.0632
+Epoch 2/70: 100%|██████████| 11/11 [00:01<00:00,  9.04it/s]
+ Train Loss = 0.0270 ,Validation Loss = 0.0517
+Epoch 3/70: 100%|██████████| 11/11 [00:01<00:00, 10.03it/s]
+ Train Loss = 0.0169 ,Validation Loss = 0.0358
+Epoch 4/70: 100%|██████████| 11/11 [00:01<00:00,  7.83it/s]
+ Train Loss = 0.0263 ,Validation Loss = 0.0135
+Epoch 5/70: 100%|██████████| 11/11 [00:02<00:00,  4.87it/s]
+ Train Loss = 0.0183 ,Validation Loss = 0.0290
+Epoch 6/70: 100%|██████████| 11/11 [00:01<00:00,  7.43it/s]
+ Train Loss = 0.0328 ,Validation Loss = 0.0143
+Epoch 7/70: 100%|██████████| 11/11 [00:01<00:00,  6.36it/s]
+ Train Loss = 0.0153 ,Validation Loss = 0.0069
+Epoch 8/70: 100%|██████████| 11/11 [00:01<00:00,  7.05it/s]
+ Train Loss = 0.0161 ,Validation Loss = 0.0074
+Epoch 9/70: 100%|██████████| 11/11 [00:01<00:00,  5.52it/s]
+ Train Loss = 0.0165 ,Validation Loss = 0.0303
+Epoch 10/70: 100%|██████████| 11/11 [00:01<00:00,  6.26it/s]
+ Train Loss = 0.0141 ,Validation Loss = 0.0299
+Stopping early at epoch 10
+Epoch 11/70: 100%|██████████| 11/11 [00:01<00:00,  6.10it/s]
+ Train Loss = 0.0272 ,Validation Loss = 0.0096
+Epoch 12/70: 100%|██████████| 11/11 [00:01<00:00,  5.51it/s]
+ Train Loss = 0.0193 ,Validation Loss = 0.0056
+Epoch 13/70: 100%|██████████| 11/11 [00:01<00:00,  6.11it/s]
+ Train Loss = 0.0107 ,Validation Loss = 0.0207
+Epoch 14/70: 100%|██████████| 11/11 [00:01<00:00,  6.58it/s]
+ Train Loss = 0.0172 ,Validation Loss = 0.0402
+Epoch 15/70: 100%|██████████| 11/11 [00:01<00:00,  6.50it/s]
+ Train Loss = 0.0088 ,Validation Loss = 0.0062
+Epoch 16/70: 100%|██████████| 11/11 [00:01<00:00,  5.70it/s]
+ Train Loss = 0.0179 ,Validation Loss = 0.0055
+Epoch 17/70: 100%|██████████| 11/11 [00:01<00:00,  6.10it/s]
+ Train Loss = 0.0098 ,Validation Loss = 0.0050
+Epoch 18/70: 100%|██████████| 11/11 [00:01<00:00,  7.28it/s]
+ Train Loss = 0.0073 ,Validation Loss = 0.0044
+Epoch 19/70: 100%|██████████| 11/11 [00:01<00:00,  6.03it/s]
+ Train Loss = 0.0178 ,Validation Loss = 0.0050
+Epoch 20/70: 100%|██████████| 11/11 [00:02<00:00,  4.02it/s]
+ Train Loss = 0.0166 ,Validation Loss = 0.0049
+Epoch 21/70: 100%|██████████| 11/11 [00:02<00:00,  5.46it/s]
+ Train Loss = 0.0156 ,Validation Loss = 0.0069
+Epoch 22/70: 100%|██████████| 11/11 [00:02<00:00,  4.42it/s]
+ Train Loss = 0.0096 ,Validation Loss = 0.0041
+Epoch 23/70: 100%|██████████| 11/11 [00:01<00:00,  5.58it/s]
+ Train Loss = 0.0073 ,Validation Loss = 0.0044
+Epoch 24/70: 100%|██████████| 11/11 [00:01<00:00,  5.88it/s]
+ Train Loss = 0.0072 ,Validation Loss = 0.0056
+Epoch 25/70: 100%|██████████| 11/11 [00:01<00:00,  6.97it/s]
+ Train Loss = 0.0058 ,Validation Loss = 0.0041
+Epoch 26/70: 100%|██████████| 11/11 [00:01<00:00,  6.32it/s]
+ Train Loss = 0.0151 ,Validation Loss = 0.0048
+Epoch 27/70: 100%|██████████| 11/11 [00:02<00:00,  5.00it/s]
+ Train Loss = 0.0114 ,Validation Loss = 0.0044
+Epoch 28/70: 100%|██████████| 11/11 [00:01<00:00,  6.44it/s]
+ Train Loss = 0.0078 ,Validation Loss = 0.0041
+Epoch 29/70: 100%|██████████| 11/11 [00:02<00:00,  3.94it/s]
+ Train Loss = 0.0056 ,Validation Loss = 0.0040
+Epoch 30/70: 100%|██████████| 11/11 [00:02<00:00,  5.41it/s]
+ Train Loss = 0.0093 ,Validation Loss = 0.0053
+Epoch 31/70: 100%|██████████| 11/11 [00:01<00:00,  5.86it/s]
+ Train Loss = 0.0201 ,Validation Loss = 0.0051
+Epoch 32/70: 100%|██████████| 11/11 [00:01<00:00,  6.07it/s]
+ Train Loss = 0.0143 ,Validation Loss = 0.0045
+Epoch 33/70: 100%|██████████| 11/11 [00:01<00:00,  5.85it/s]
+ Train Loss = 0.0089 ,Validation Loss = 0.0042
+Epoch 34/70: 100%|██████████| 11/11 [00:01<00:00,  6.11it/s]
+ Train Loss = 0.0126 ,Validation Loss = 0.0097
+Epoch 35/70: 100%|██████████| 11/11 [00:01<00:00,  6.65it/s]
+ Train Loss = 0.0121 ,Validation Loss = 0.0159
+Epoch 36/70: 100%|██████████| 11/11 [00:01<00:00,  6.29it/s]
+ Train Loss = 0.0066 ,Validation Loss = 0.0049
+Epoch 37/70: 100%|██████████| 11/11 [00:01<00:00,  7.18it/s]
+ Train Loss = 0.0112 ,Validation Loss = 0.0045
+Epoch 38/70: 100%|██████████| 11/11 [00:01<00:00,  7.45it/s]
+ Train Loss = 0.0100 ,Validation Loss = 0.0040
+Epoch 39/70: 100%|██████████| 11/11 [00:01<00:00,  7.55it/s]
+ Train Loss = 0.0237 ,Validation Loss = 0.0194
+Epoch 40/70: 100%|██████████| 11/11 [00:03<00:00,  3.18it/s]
+ Train Loss = 0.0173 ,Validation Loss = 0.0047
+Epoch 41/70: 100%|██████████| 11/11 [00:02<00:00,  5.47it/s]
+ Train Loss = 0.0110 ,Validation Loss = 0.0041
+Epoch 42/70: 100%|██████████| 11/11 [00:01<00:00,  6.62it/s]
+ Train Loss = 0.0163 ,Validation Loss = 0.0038
+Epoch 43/70: 100%|██████████| 11/11 [00:01<00:00,  6.26it/s]
+ Train Loss = 0.0152 ,Validation Loss = 0.0042
+Epoch 44/70: 100%|██████████| 11/11 [00:01<00:00,  5.67it/s]
+ Train Loss = 0.0069 ,Validation Loss = 0.0038
+Epoch 45/70: 100%|██████████| 11/11 [00:01<00:00,  6.52it/s]
+ Train Loss = 0.0050 ,Validation Loss = 0.0238
+Epoch 46/70: 100%|██████████| 11/11 [00:01<00:00,  7.66it/s]
+ Train Loss = 0.0215 ,Validation Loss = 0.0036
+Epoch 47/70: 100%|██████████| 11/11 [00:01<00:00,  7.79it/s]
+ Train Loss = 0.0067 ,Validation Loss = 0.0038
+Epoch 48/70: 100%|██████████| 11/11 [00:01<00:00,  6.18it/s]
+ Train Loss = 0.0076 ,Validation Loss = 0.0188
+Epoch 49/70: 100%|██████████| 11/11 [00:01<00:00,  7.17it/s]
+ Train Loss = 0.0139 ,Validation Loss = 0.0042
+Epoch 50/70: 100%|██████████| 11/11 [00:01<00:00,  5.92it/s]
+ Train Loss = 0.0082 ,Validation Loss = 0.0041
+Epoch 51/70: 100%|██████████| 11/11 [00:02<00:00,  5.34it/s]
+ Train Loss = 0.0136 ,Validation Loss = 0.0039
+Epoch 52/70: 100%|██████████| 11/11 [00:01<00:00,  5.78it/s]
+ Train Loss = 0.0137 ,Validation Loss = 0.0038
+Epoch 53/70: 100%|██████████| 11/11 [00:01<00:00,  6.89it/s]
+ Train Loss = 0.0116 ,Validation Loss = 0.0179
+Epoch 54/70: 100%|██████████| 11/11 [00:01<00:00,  5.64it/s]
+ Train Loss = 0.0112 ,Validation Loss = 0.0316
+Epoch 55/70: 100%|██████████| 11/11 [00:01<00:00,  5.88it/s]
+ Train Loss = 0.0074 ,Validation Loss = 0.0047
+Epoch 56/70: 100%|██████████| 11/11 [00:01<00:00,  7.99it/s]
+ Train Loss = 0.0110 ,Validation Loss = 0.0039
+Epoch 57/70: 100%|██████████| 11/11 [00:01<00:00,  6.58it/s]
+ Train Loss = 0.0054 ,Validation Loss = 0.0140
+Epoch 58/70: 100%|██████████| 11/11 [00:02<00:00,  4.87it/s]
+ Train Loss = 0.0063 ,Validation Loss = 0.0162
+Epoch 59/70: 100%|██████████| 11/11 [00:03<00:00,  3.06it/s]
+ Train Loss = 0.0108 ,Validation Loss = 0.0287
+Epoch 60/70: 100%|██████████| 11/11 [00:02<00:00,  5.03it/s]
+ Train Loss = 0.0107 ,Validation Loss = 0.0034
+Epoch 61/70: 100%|██████████| 11/11 [00:01<00:00,  5.73it/s]
+ Train Loss = 0.0130 ,Validation Loss = 0.0036
+Epoch 62/70: 100%|██████████| 11/11 [00:01<00:00,  6.82it/s]
+ Train Loss = 0.0177 ,Validation Loss = 0.0041
+Epoch 63/70: 100%|██████████| 11/11 [00:01<00:00,  5.97it/s]
+ Train Loss = 0.0049 ,Validation Loss = 0.0035
+Epoch 64/70: 100%|██████████| 11/11 [00:01<00:00,  6.35it/s]
+ Train Loss = 0.0073 ,Validation Loss = 0.0057
+Epoch 65/70: 100%|██████████| 11/11 [00:01<00:00,  7.45it/s]
+ Train Loss = 0.0053 ,Validation Loss = 0.0154
+Epoch 66/70: 100%|██████████| 11/11 [00:01<00:00,  7.10it/s]
+ Train Loss = 0.0056 ,Validation Loss = 0.0038
+Epoch 67/70: 100%|██████████| 11/11 [00:01<00:00,  6.84it/s]
+ Train Loss = 0.0056 ,Validation Loss = 0.0032
+Epoch 68/70: 100%|██████████| 11/11 [00:01<00:00,  7.20it/s]
+ Train Loss = 0.0051 ,Validation Loss = 0.0087
+Epoch 69/70: 100%|██████████| 11/11 [00:01<00:00,  6.37it/s]
+ Train Loss = 0.0052 ,Validation Loss = 0.0041
+Epoch 70/70: 100%|██████████| 11/11 [00:01<00:00,  7.20it/s]
+ Train Loss = 0.0101 ,Validation Loss = 0.0034
+Epoch 1/70: 100%|██████████| 11/11 [00:00<00:00, 28.09it/s]
+ Train Loss = 0.0674 ,Validation Loss = 0.0691
+Epoch 2/70: 100%|██████████| 11/11 [00:00<00:00, 36.43it/s]
+ Train Loss = 0.0520 ,Validation Loss = 0.0515
+Epoch 3/70: 100%|██████████| 11/11 [00:00<00:00, 28.25it/s]
+ Train Loss = 0.0555 ,Validation Loss = 0.0396
+Epoch 4/70: 100%|██████████| 11/11 [00:00<00:00, 32.37it/s]
+ Train Loss = 0.0372 ,Validation Loss = 0.0260
+Epoch 5/70: 100%|██████████| 11/11 [00:00<00:00, 24.98it/s]
+ Train Loss = 0.0330 ,Validation Loss = 0.0281
+Epoch 6/70: 100%|██████████| 11/11 [00:00<00:00, 17.38it/s]
+ Train Loss = 0.0256 ,Validation Loss = 0.0133
+Epoch 7/70: 100%|██████████| 11/11 [00:00<00:00, 17.86it/s]
+ Train Loss = 0.0276 ,Validation Loss = 0.0481
+Epoch 8/70: 100%|██████████| 11/11 [00:00<00:00, 14.38it/s]
+ Train Loss = 0.0148 ,Validation Loss = 0.0057
+Epoch 9/70: 100%|██████████| 11/11 [00:00<00:00, 25.04it/s]
+ Train Loss = 0.0178 ,Validation Loss = 0.0283
+Epoch 10/70: 100%|██████████| 11/11 [00:00<00:00, 24.52it/s]
+ Train Loss = 0.0191 ,Validation Loss = 0.0123
+Epoch 11/70: 100%|██████████| 11/11 [00:00<00:00, 24.60it/s]
+ Train Loss = 0.0123 ,Validation Loss = 0.0166
+Stopping early at epoch 11
+Epoch 12/70: 100%|██████████| 11/11 [00:00<00:00, 22.33it/s]
+ Train Loss = 0.0135 ,Validation Loss = 0.0113
+Epoch 13/70: 100%|██████████| 11/11 [00:00<00:00, 23.98it/s]
+ Train Loss = 0.0107 ,Validation Loss = 0.0117
+Epoch 14/70: 100%|██████████| 11/11 [00:00<00:00, 21.42it/s]
+ Train Loss = 0.0152 ,Validation Loss = 0.0070
+Epoch 15/70: 100%|██████████| 11/11 [00:00<00:00, 25.15it/s]
+ Train Loss = 0.0384 ,Validation Loss = 0.0079
+Epoch 16/70: 100%|██████████| 11/11 [00:00<00:00, 28.42it/s]
+ Train Loss = 0.0141 ,Validation Loss = 0.0350
+Epoch 17/70: 100%|██████████| 11/11 [00:01<00:00, 10.98it/s]
+ Train Loss = 0.0159 ,Validation Loss = 0.0104
+Epoch 18/70: 100%|██████████| 11/11 [00:00<00:00, 17.00it/s]
+ Train Loss = 0.0234 ,Validation Loss = 0.0060
+Epoch 19/70: 100%|██████████| 11/11 [00:00<00:00, 25.30it/s]
+ Train Loss = 0.0181 ,Validation Loss = 0.0117
+Epoch 20/70: 100%|██████████| 11/11 [00:00<00:00, 29.76it/s]
+ Train Loss = 0.0247 ,Validation Loss = 0.0073
+Epoch 21/70: 100%|██████████| 11/11 [00:00<00:00, 31.92it/s]
+ Train Loss = 0.0308 ,Validation Loss = 0.0459
+Epoch 22/70: 100%|██████████| 11/11 [00:00<00:00, 28.26it/s]
+ Train Loss = 0.0295 ,Validation Loss = 0.0068
+Epoch 23/70: 100%|██████████| 11/11 [00:00<00:00, 31.67it/s]
+ Train Loss = 0.0130 ,Validation Loss = 0.0097
+Epoch 24/70: 100%|██████████| 11/11 [00:00<00:00, 32.20it/s]
+ Train Loss = 0.0280 ,Validation Loss = 0.0079
+Epoch 25/70: 100%|██████████| 11/11 [00:00<00:00, 30.33it/s]
+ Train Loss = 0.0212 ,Validation Loss = 0.0373
+Epoch 26/70: 100%|██████████| 11/11 [00:00<00:00, 32.77it/s]
+ Train Loss = 0.0176 ,Validation Loss = 0.0111
+Epoch 27/70: 100%|██████████| 11/11 [00:00<00:00, 23.31it/s]
+ Train Loss = 0.0258 ,Validation Loss = 0.0135
+Epoch 28/70: 100%|██████████| 11/11 [00:00<00:00, 31.89it/s]
+ Train Loss = 0.0085 ,Validation Loss = 0.0054
+Epoch 29/70: 100%|██████████| 11/11 [00:00<00:00, 17.82it/s]
+ Train Loss = 0.0164 ,Validation Loss = 0.0362
+Epoch 30/70: 100%|██████████| 11/11 [00:00<00:00, 32.33it/s]
+ Train Loss = 0.0144 ,Validation Loss = 0.0058
+Epoch 31/70: 100%|██████████| 11/11 [00:00<00:00, 31.58it/s]
+ Train Loss = 0.0087 ,Validation Loss = 0.0078
+Epoch 32/70: 100%|██████████| 11/11 [00:00<00:00, 26.85it/s]
+ Train Loss = 0.0114 ,Validation Loss = 0.0339
+Epoch 33/70: 100%|██████████| 11/11 [00:00<00:00, 28.26it/s]
+ Train Loss = 0.0124 ,Validation Loss = 0.0061
+Epoch 34/70: 100%|██████████| 11/11 [00:00<00:00, 27.89it/s]
+ Train Loss = 0.0164 ,Validation Loss = 0.0348
+Epoch 35/70: 100%|██████████| 11/11 [00:00<00:00, 31.18it/s]
+ Train Loss = 0.0190 ,Validation Loss = 0.0244
+Epoch 36/70: 100%|██████████| 11/11 [00:00<00:00, 33.26it/s]
+ Train Loss = 0.0076 ,Validation Loss = 0.0387
+Epoch 37/70: 100%|██████████| 11/11 [00:00<00:00, 31.91it/s]
+ Train Loss = 0.0168 ,Validation Loss = 0.0088
+Epoch 38/70: 100%|██████████| 11/11 [00:00<00:00, 24.14it/s]
+ Train Loss = 0.0119 ,Validation Loss = 0.0330
+Epoch 39/70: 100%|██████████| 11/11 [00:00<00:00, 33.62it/s]
+ Train Loss = 0.0186 ,Validation Loss = 0.0110
+Epoch 40/70: 100%|██████████| 11/11 [00:00<00:00, 34.65it/s]
+ Train Loss = 0.0163 ,Validation Loss = 0.0053
+Epoch 41/70: 100%|██████████| 11/11 [00:00<00:00, 33.02it/s]
+ Train Loss = 0.0233 ,Validation Loss = 0.0070
+Epoch 42/70: 100%|██████████| 11/11 [00:00<00:00, 31.04it/s]
+ Train Loss = 0.0237 ,Validation Loss = 0.0108
+Epoch 43/70: 100%|██████████| 11/11 [00:00<00:00, 34.48it/s]
+ Train Loss = 0.0193 ,Validation Loss = 0.0088
+Epoch 44/70: 100%|██████████| 11/11 [00:00<00:00, 23.75it/s]
+ Train Loss = 0.0113 ,Validation Loss = 0.0072
+Epoch 45/70: 100%|██████████| 11/11 [00:00<00:00, 21.49it/s]
+ Train Loss = 0.0084 ,Validation Loss = 0.0060
+Epoch 46/70: 100%|██████████| 11/11 [00:01<00:00, 10.80it/s]
+ Train Loss = 0.0164 ,Validation Loss = 0.0066
+Epoch 47/70: 100%|██████████| 11/11 [00:00<00:00, 19.72it/s]
+ Train Loss = 0.0116 ,Validation Loss = 0.0057
+Epoch 48/70: 100%|██████████| 11/11 [00:00<00:00, 29.37it/s]
+ Train Loss = 0.0177 ,Validation Loss = 0.0325
+Epoch 49/70: 100%|██████████| 11/11 [00:00<00:00, 25.06it/s]
+ Train Loss = 0.0082 ,Validation Loss = 0.0301
+Epoch 50/70: 100%|██████████| 11/11 [00:00<00:00, 22.26it/s]
+ Train Loss = 0.0180 ,Validation Loss = 0.0092
+Epoch 51/70: 100%|██████████| 11/11 [00:00<00:00, 23.72it/s]
+ Train Loss = 0.0181 ,Validation Loss = 0.0111
+Epoch 52/70: 100%|██████████| 11/11 [00:00<00:00, 14.11it/s]
+ Train Loss = 0.0065 ,Validation Loss = 0.0596
+Epoch 53/70: 100%|██████████| 11/11 [00:00<00:00, 20.38it/s]
+ Train Loss = 0.0186 ,Validation Loss = 0.0426
+Epoch 54/70: 100%|██████████| 11/11 [00:00<00:00, 12.33it/s]
+ Train Loss = 0.0215 ,Validation Loss = 0.0070
+Epoch 55/70: 100%|██████████| 11/11 [00:00<00:00, 16.38it/s]
+ Train Loss = 0.0076 ,Validation Loss = 0.0080
+Epoch 56/70: 100%|██████████| 11/11 [00:00<00:00, 11.83it/s]
+ Train Loss = 0.0143 ,Validation Loss = 0.0046
+Epoch 57/70: 100%|██████████| 11/11 [00:00<00:00, 15.96it/s]
+ Train Loss = 0.0068 ,Validation Loss = 0.0112
+Epoch 58/70: 100%|██████████| 11/11 [00:00<00:00, 20.09it/s]
+ Train Loss = 0.0117 ,Validation Loss = 0.0280
+Epoch 59/70: 100%|██████████| 11/11 [00:00<00:00, 30.75it/s]
+ Train Loss = 0.0128 ,Validation Loss = 0.0093
+Epoch 60/70: 100%|██████████| 11/11 [00:00<00:00, 31.73it/s]
+ Train Loss = 0.0109 ,Validation Loss = 0.0067
+Epoch 61/70: 100%|██████████| 11/11 [00:00<00:00, 26.39it/s]
+ Train Loss = 0.0135 ,Validation Loss = 0.0092
+Epoch 62/70: 100%|██████████| 11/11 [00:00<00:00, 30.31it/s]
+ Train Loss = 0.0227 ,Validation Loss = 0.0203
+Epoch 63/70: 100%|██████████| 11/11 [00:00<00:00, 30.45it/s]
+ Train Loss = 0.0128 ,Validation Loss = 0.0075
+Epoch 64/70: 100%|██████████| 11/11 [00:00<00:00, 29.03it/s]
+ Train Loss = 0.0077 ,Validation Loss = 0.0084
+Epoch 65/70: 100%|██████████| 11/11 [00:00<00:00, 32.92it/s]
+ Train Loss = 0.0074 ,Validation Loss = 0.0071
+Epoch 66/70: 100%|██████████| 11/11 [00:00<00:00, 21.96it/s]
+ Train Loss = 0.0188 ,Validation Loss = 0.0065
+Epoch 67/70: 100%|██████████| 11/11 [00:00<00:00, 32.15it/s]
+ Train Loss = 0.0057 ,Validation Loss = 0.0247
+Epoch 68/70: 100%|██████████| 11/11 [00:00<00:00, 31.68it/s]
+ Train Loss = 0.0127 ,Validation Loss = 0.0147
+Epoch 69/70: 100%|██████████| 11/11 [00:00<00:00, 20.02it/s]
+ Train Loss = 0.0142 ,Validation Loss = 0.0420
+Epoch 70/70: 100%|██████████| 11/11 [00:01<00:00,  8.06it/s]
+ Train Loss = 0.0166 ,Validation Loss = 0.0202

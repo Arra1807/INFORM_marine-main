@@ -1,0 +1,9 @@
+Number of patches per echogram for training: [np.int64(16), np.int64(20), np.int64(22), np.int64(18), np.int64(26)]
+Number of patches per echogram for testing: [np.int64(26), np.int64(7), np.int64(7), np.int64(56), np.int64(26)]
+-------Dimensions for Training set-------------
+Data shape: torch.Size([102, 6, 224, 224])
+-------Dimensions for Test set-------------
+Data shape: torch.Size([122, 6, 224, 224])
+Train Echogram: 8
+Test Echogram: 2
+[34m[1mwandb[0m: [32m[41mERROR[0m The nbformat package was not found. It is required to save notebook history.

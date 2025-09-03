@@ -1,0 +1,21 @@
+Number of patches per echogram for training: [np.int64(16), np.int64(20), np.int64(22), np.int64(18), np.int64(26), np.int64(26), np.int64(7), np.int64(7)]
+Number of patches per echogram for testing: [np.int64(16), np.int64(20), np.int64(22), np.int64(18), np.int64(26), np.int64(26), np.int64(7), np.int64(7)]
+-------Dimensions for Training set-------------
+Data shape: torch.Size([58, 6, 224, 224])
+Data shape: torch.Size([44, 6, 224, 224])
+Data shape: torch.Size([40, 6, 224, 224])
+-------Dimensions for Test set-------------
+Data shape: torch.Size([56, 6, 224, 224])
+Data shape: torch.Size([26, 6, 224, 224])
+Epoch 1/50:   0%|          | 0/3 [03:47<?, ?it/s]
+torch.Size([58, 6, 224, 224])
+-------Dimensions for Training set-------------
+Data shape: torch.Size([58, 6, 224, 224])
+Data shape: torch.Size([44, 6, 224, 224])
+Data shape: torch.Size([40, 6, 224, 224])
+-------Dimensions for Test set-------------
+Data shape: torch.Size([56, 6, 224, 224])
+Data shape: torch.Size([26, 6, 224, 224])
+Number of echograms: 10
+Train Echogram: 8
+Test Echogram: 2

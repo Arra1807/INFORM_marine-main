@@ -1,0 +1,5 @@
+Epoch 1/50: 100%|██████████| 2/2 [00:47<00:00, 23.67s/it]
+Train encodings: min=0.0010, max=0.9968
+Val latents: min=0.0017, max=0.9963
+ Train Loss = 0.1399 ,Validation Loss = 0.1128
+Epoch 2/50:   0%|          | 0/2 [00:00<?, ?it/s]

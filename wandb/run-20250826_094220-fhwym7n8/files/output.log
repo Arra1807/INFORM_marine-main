@@ -1,0 +1,22 @@
+Number of patches per echogram for training: [9, 7, 8, 10, 7, 37, 10, 8]
+Number of patches per echogram for testing: [21, 7]
+Total number of training generators: 8
+Total number of testing generators: 2
+No such comm: 3ff42ffe760e4f849f1fe08db861329e
+No such comm: ed6f440a83924f61bae2eda66246c922
+No such comm: 8982775ea7b1428ea77666e0435a5666
+No such comm: 5b8eb12840b3499eba383c16c2a7e3df
+No such comm: 571b9c0b14e94ebb9b23a352ab2de514
+No such comm: d9f74b68da5a45ac80c1f64ec348e296
+No such comm: ef93efc788e4439cbed63b45e1be7d1c
+No such comm: 21c921b1f6f44ee5b82483e41762fdb4
+No such comm: 69f635eb6a344f3882624c9ba2d2fa56
+No such comm: 41ea2dec1fa64687bb7e4711118574d5
+No such comm: d4cd688c5b144dffb0dcf699e3381175
+No such comm: e68e4d4d4a6c442493431738923f1a9f
+No such comm: 88311783bf8e4ca18b1d2d6743c8ef86
+No such comm: 3d65402faf3a4969b6f39e064f156459
+No such comm: b2a4eeba9754499591e4b9da33f91e29
+No such comm: 15103b7f2a314ce39334ab47a1696547
+Train Echogram: 8
+Test Echogram: 2

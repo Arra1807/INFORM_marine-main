@@ -1,0 +1,5 @@
+Number of echograms: 1
+Label shape: (180, 224, 224)
+Data shape: (180, 6, 224, 224)
+Mask shape: (180, 224, 224)
+[34m[1mwandb[0m: [32m[41mERROR[0m The nbformat package was not found. It is required to save notebook history.

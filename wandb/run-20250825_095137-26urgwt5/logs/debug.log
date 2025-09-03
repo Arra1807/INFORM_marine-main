@@ -1,0 +1,67 @@
+2025-08-25 09:51:37,994 INFO    MainThread:22960 [wandb_setup.py:_flush():80] Current SDK version is 0.21.1
+2025-08-25 09:51:37,994 INFO    MainThread:22960 [wandb_setup.py:_flush():80] Configure stats pid to 22960
+2025-08-25 09:51:37,995 INFO    MainThread:22960 [wandb_setup.py:_flush():80] Loading settings from C:\Users\shado\.config\wandb\settings
+2025-08-25 09:51:37,995 INFO    MainThread:22960 [wandb_setup.py:_flush():80] Loading settings from c:\Users\shado\Documents\Master Thesis\INFORM_marine-main_new\INFORM_marine-main\wandb\settings
+2025-08-25 09:51:37,995 INFO    MainThread:22960 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2025-08-25 09:51:37,996 INFO    MainThread:22960 [wandb_init.py:setup_run_log_directory():703] Logging user logs to c:\Users\shado\Documents\Master Thesis\INFORM_marine-main_new\INFORM_marine-main\wandb\run-20250825_095137-26urgwt5\logs\debug.log
+2025-08-25 09:51:37,996 INFO    MainThread:22960 [wandb_init.py:setup_run_log_directory():704] Logging internal logs to c:\Users\shado\Documents\Master Thesis\INFORM_marine-main_new\INFORM_marine-main\wandb\run-20250825_095137-26urgwt5\logs\debug-internal.log
+2025-08-25 09:51:37,997 INFO    MainThread:22960 [wandb_init.py:monkeypatch_ipython():622] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000002132C0BD3D0>
+2025-08-25 09:51:38,006 INFO    MainThread:22960 [wandb_init.py:init():830] calling init triggers
+2025-08-25 09:51:38,006 INFO    MainThread:22960 [wandb_init.py:init():835] wandb.init called with sweep_config: {}
+config: {'batch_size': 64, 'learning_rate': 1e-05, 'epochs': 50, 'Weight_decay': 0.0001, '_wandb': {}}
+2025-08-25 09:51:38,006 INFO    MainThread:22960 [wandb_init.py:init():871] starting backend
+2025-08-25 09:51:39,199 INFO    MainThread:22960 [wandb_init.py:init():874] sending inform_init request
+2025-08-25 09:51:39,444 INFO    MainThread:22960 [wandb_init.py:init():882] backend started and connected
+2025-08-25 09:51:39,458 INFO    MainThread:22960 [wandb_run.py:_label_probe_notebook():1318] probe notebook
+2025-08-25 09:51:39,475 INFO    MainThread:22960 [wandb_run.py:_label_probe_notebook():1328] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2025-08-25 09:51:39,476 INFO    MainThread:22960 [wandb_init.py:init():953] updated telemetry
+2025-08-25 09:51:39,485 INFO    MainThread:22960 [wandb_init.py:init():977] communicating run to backend with 90.0 second timeout
+2025-08-25 09:52:15,256 INFO    MainThread:22960 [wandb_init.py:init():1029] starting run threads in backend
+2025-08-25 09:52:18,835 INFO    MainThread:22960 [wandb_run.py:_console_start():2494] atexit reg
+2025-08-25 09:52:18,835 INFO    MainThread:22960 [wandb_run.py:_redirect():2342] redirect: wrap_raw
+2025-08-25 09:52:18,836 INFO    MainThread:22960 [wandb_run.py:_redirect():2411] Wrapping output streams.
+2025-08-25 09:52:18,836 INFO    MainThread:22960 [wandb_run.py:_redirect():2434] Redirects installed.
+2025-08-25 09:52:18,852 INFO    MainThread:22960 [wandb_init.py:init():1075] run started, returning control to user process
+2025-08-25 09:52:19,237 INFO    MainThread:22960 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-08-25 09:52:44,429 INFO    MainThread:22960 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-08-25 09:52:44,430 INFO    MainThread:22960 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-08-25 09:52:49,438 INFO    MainThread:22960 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-08-25 09:53:40,649 INFO    MainThread:22960 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-08-25 09:53:40,650 INFO    MainThread:22960 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-08-25 09:53:58,066 INFO    MainThread:22960 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-08-25 09:55:11,172 INFO    MainThread:22960 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-08-25 09:55:11,172 INFO    MainThread:22960 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-08-25 09:55:11,443 INFO    MainThread:22960 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-08-25 09:58:47,719 INFO    MainThread:22960 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-08-25 09:58:48,186 INFO    MainThread:22960 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-08-25 09:58:48,690 INFO    MainThread:22960 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-08-25 09:58:51,099 INFO    MainThread:22960 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-08-25 09:58:51,100 INFO    MainThread:22960 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-08-25 09:58:51,126 INFO    MainThread:22960 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-08-25 09:59:39,172 INFO    MainThread:22960 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-08-25 09:59:39,174 INFO    MainThread:22960 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-08-25 09:59:39,199 INFO    MainThread:22960 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-08-25 09:59:39,392 INFO    MainThread:22960 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-08-25 09:59:39,393 INFO    MainThread:22960 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-08-25 09:59:39,459 INFO    MainThread:22960 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-08-25 10:00:43,152 INFO    MainThread:22960 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-08-25 10:00:43,153 INFO    MainThread:22960 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-08-25 10:00:43,168 INFO    MainThread:22960 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-08-25 10:00:45,124 INFO    MainThread:22960 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-08-25 10:00:45,124 INFO    MainThread:22960 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-08-25 10:00:45,146 INFO    MainThread:22960 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-08-25 10:00:45,667 INFO    MainThread:22960 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-08-25 10:00:45,668 INFO    MainThread:22960 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-08-25 10:00:45,684 INFO    MainThread:22960 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-08-25 10:00:57,572 INFO    MainThread:22960 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-08-25 10:00:57,573 INFO    MainThread:22960 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-08-25 10:00:58,259 INFO    MainThread:22960 [wandb_run.py:_finish():2260] finishing run arangan18-university-of-oslo/Adapter/26urgwt5
+2025-08-25 10:00:58,299 INFO    MainThread:22960 [jupyter.py:save_history():480] not saving jupyter history
+2025-08-25 10:00:58,299 INFO    MainThread:22960 [jupyter.py:save_ipynb():404] not saving jupyter notebook
+2025-08-25 10:00:58,299 INFO    MainThread:22960 [wandb_init.py:_jupyter_teardown():607] cleaning up jupyter logic
+2025-08-25 10:00:58,304 INFO    MainThread:22960 [wandb_run.py:_atexit_cleanup():2459] got exitcode: 0
+2025-08-25 10:00:58,308 INFO    MainThread:22960 [wandb_run.py:_restore():2441] restore
+2025-08-25 10:00:58,311 INFO    MainThread:22960 [wandb_run.py:_restore():2447] restore done
+2025-08-25 10:00:59,557 INFO    MainThread:22960 [wandb_run.py:_footer_history_summary_info():3895] rendering history
+2025-08-25 10:00:59,560 INFO    MainThread:22960 [wandb_run.py:_footer_history_summary_info():3927] rendering summary
+2025-08-25 10:00:59,564 INFO    MainThread:22960 [wandb_run.py:_footer_sync_info():3856] logging synced files

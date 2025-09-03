@@ -1,0 +1,93 @@
+Number of patches per echogram for training: [np.int64(8), np.int64(8), np.int64(10), np.int64(7), np.int64(7), np.int64(21), np.int64(37), np.int64(8)]
+Number of patches per echogram for testing: [np.int64(7), np.int64(16)]
+Total number of training patches: 106
+Total number of testing patches: 23
+-------Dimensions for Training set-------------
+data shape: torch.Size([45, 6, 224, 224])
+data shape: torch.Size([61, 6, 224, 224])
+-------Dimensions for Test set-------------
+data shape: torch.Size([23, 6, 224, 224])
+lr 0.001
+weight decay 0.0001
+epochs 20
+Epoch 1/20: 100%|██████████| 2/2 [00:24<00:00, 12.12s/it]
+Train encodings: min=0.0007, max=0.9984
+Val latents: min=0.0007, max=0.9978
+ Train Loss = 0.1316 ,Validation Loss = 0.0904
+Epoch 2/20: 100%|██████████| 2/2 [00:17<00:00,  8.86s/it]
+Train encodings: min=0.0003, max=0.9994
+Val latents: min=0.0002, max=0.9995
+ Train Loss = 0.1001 ,Validation Loss = 0.0631
+Epoch 3/20: 100%|██████████| 2/2 [00:16<00:00,  8.04s/it]
+Train encodings: min=0.0001, max=0.9998
+Val latents: min=0.0003, max=0.9993
+ Train Loss = 0.0754 ,Validation Loss = 0.0468
+Epoch 4/20: 100%|██████████| 2/2 [00:16<00:00,  8.15s/it]
+Train encodings: min=0.0003, max=0.9993
+Val latents: min=0.0006, max=0.9987
+ Train Loss = 0.0598 ,Validation Loss = 0.0368
+Epoch 5/20: 100%|██████████| 2/2 [00:16<00:00,  8.27s/it]
+Train encodings: min=0.0002, max=0.9996
+Val latents: min=0.0009, max=0.9981
+ Train Loss = 0.0454 ,Validation Loss = 0.0319
+Epoch 6/20: 100%|██████████| 2/2 [00:17<00:00,  8.80s/it]
+Train encodings: min=0.0008, max=0.9985
+Val latents: min=0.0012, max=0.9970
+ Train Loss = 0.0393 ,Validation Loss = 0.0271
+Epoch 7/20: 100%|██████████| 2/2 [00:17<00:00,  8.75s/it]
+Train encodings: min=0.0005, max=0.9987
+Val latents: min=0.0023, max=0.9937
+ Train Loss = 0.0361 ,Validation Loss = 0.0239
+Epoch 8/20: 100%|██████████| 2/2 [00:16<00:00,  8.11s/it]
+Train encodings: min=0.0019, max=0.9952
+Val latents: min=0.0040, max=0.9873
+ Train Loss = 0.0273 ,Validation Loss = 0.0236
+Epoch 9/20: 100%|██████████| 2/2 [00:16<00:00,  8.08s/it]
+Train encodings: min=0.0020, max=0.9913
+Val latents: min=0.0088, max=0.9642
+ Train Loss = 0.0257 ,Validation Loss = 0.0221
+Epoch 10/20: 100%|██████████| 2/2 [00:18<00:00,  9.15s/it]
+Train encodings: min=0.0025, max=0.9805
+Val latents: min=0.0057, max=0.9605
+ Train Loss = 0.0247 ,Validation Loss = 0.0248
+Epoch 11/20: 100%|██████████| 2/2 [00:18<00:00,  9.11s/it]
+Train encodings: min=0.0035, max=0.9831
+Val latents: min=0.0037, max=0.9841
+ Train Loss = 0.0259 ,Validation Loss = 0.0264
+Epoch 12/20: 100%|██████████| 2/2 [00:19<00:00,  9.57s/it]
+Train encodings: min=0.0009, max=0.9964
+Val latents: min=0.0024, max=0.9930
+ Train Loss = 0.0257 ,Validation Loss = 0.0160
+Epoch 13/20: 100%|██████████| 2/2 [00:17<00:00,  8.84s/it]
+Train encodings: min=0.0006, max=0.9983
+Val latents: min=0.0015, max=0.9966
+ Train Loss = 0.0166 ,Validation Loss = 0.0263
+Epoch 14/20: 100%|██████████| 2/2 [00:16<00:00,  8.21s/it]
+Train encodings: min=0.0008, max=0.9984
+Val latents: min=0.0011, max=0.9977
+ Train Loss = 0.0306 ,Validation Loss = 0.0264
+Epoch 15/20: 100%|██████████| 2/2 [00:17<00:00,  8.73s/it]
+Train encodings: min=0.0003, max=0.9994
+Val latents: min=0.0009, max=0.9981
+ Train Loss = 0.0227 ,Validation Loss = 0.0152
+Epoch 16/20: 100%|██████████| 2/2 [00:17<00:00,  8.71s/it]
+Train encodings: min=0.0005, max=0.9989
+Val latents: min=0.0009, max=0.9982
+ Train Loss = 0.0282 ,Validation Loss = 0.0273
+Epoch 17/20: 100%|██████████| 2/2 [00:16<00:00,  8.35s/it]
+Train encodings: min=0.0003, max=0.9995
+Val latents: min=0.0008, max=0.9983
+ Train Loss = 0.0140 ,Validation Loss = 0.0276
+Epoch 18/20: 100%|██████████| 2/2 [00:19<00:00,  9.83s/it]
+Train encodings: min=0.0005, max=0.9990
+Val latents: min=0.0008, max=0.9984
+ Train Loss = 0.0210 ,Validation Loss = 0.0266
+Epoch 19/20: 100%|██████████| 2/2 [00:17<00:00,  8.63s/it]
+Train encodings: min=0.0003, max=0.9995
+Val latents: min=0.0008, max=0.9983
+ Train Loss = 0.0288 ,Validation Loss = 0.0140
+Epoch 20/20: 100%|██████████| 2/2 [00:19<00:00,  9.67s/it]
+Train encodings: min=0.0006, max=0.9989
+Val latents: min=0.0009, max=0.9983
+ Train Loss = 0.0301 ,Validation Loss = 0.0254
+[34m[1mwandb[0m: [32m[41mERROR[0m The nbformat package was not found. It is required to save notebook history.

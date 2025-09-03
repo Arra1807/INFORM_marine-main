@@ -1,0 +1,23 @@
+{"time":"2025-07-28T19:32:54.4832282+02:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-28T19:32:56.6768688+02:00","level":"INFO","msg":"stream: created new stream","id":"doophejh"}
+{"time":"2025-07-28T19:32:56.6774053+02:00","level":"INFO","msg":"stream: started","id":"doophejh"}
+{"time":"2025-07-28T19:32:56.6774053+02:00","level":"INFO","msg":"handler: started","stream_id":"doophejh"}
+{"time":"2025-07-28T19:32:56.677929+02:00","level":"INFO","msg":"sender: started","stream_id":"doophejh"}
+{"time":"2025-07-28T19:32:56.677929+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"doophejh"}
+{"time":"2025-07-28T20:01:12.0503943+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-28T20:01:27.054158+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-28T20:01:42.0073367+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-28T20:01:56.9990493+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-28T20:02:11.9926367+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-28T20:02:26.9904457+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-28T20:02:41.9940105+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-28T20:02:56.9951239+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-28T20:03:12.0087975+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-28T20:03:26.9955104+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-28T20:03:35.4914219+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.6401802,"progress":"5.4KB/5.4KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.6358827,"progress":"41B/41B"},{"desc":"uploading config.yaml","runtime_seconds":0.3657495,"progress":"1.6KB/1.6KB"}],"total_operations":3}}
+{"time":"2025-07-28T20:03:35.5508931+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-28T20:03:36.07089+02:00","level":"INFO","msg":"stream: closing","id":"doophejh"}
+{"time":"2025-07-28T20:03:36.07089+02:00","level":"INFO","msg":"handler: closed","stream_id":"doophejh"}
+{"time":"2025-07-28T20:03:36.0714162+02:00","level":"INFO","msg":"sender: closed","stream_id":"doophejh"}
+{"time":"2025-07-28T20:03:36.07089+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"doophejh"}
+{"time":"2025-07-28T20:03:36.0731344+02:00","level":"INFO","msg":"stream: closed","id":"doophejh"}

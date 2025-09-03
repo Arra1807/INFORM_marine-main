@@ -1,0 +1,25 @@
+{"time":"2025-07-30T15:00:53.5270359+02:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-30T15:00:53.9128577+02:00","level":"INFO","msg":"stream: created new stream","id":"rsed7ae6"}
+{"time":"2025-07-30T15:00:53.9135285+02:00","level":"INFO","msg":"stream: started","id":"rsed7ae6"}
+{"time":"2025-07-30T15:00:53.9135285+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"rsed7ae6"}
+{"time":"2025-07-30T15:00:53.9135285+02:00","level":"INFO","msg":"sender: started","stream_id":"rsed7ae6"}
+{"time":"2025-07-30T15:00:53.9135285+02:00","level":"INFO","msg":"handler: started","stream_id":"rsed7ae6"}
+{"time":"2025-07-30T15:01:09.2850067+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:01:24.2910435+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:01:39.2841906+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:01:54.2831611+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:02:09.2871763+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:02:24.2823904+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:02:39.2835967+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:02:54.2856483+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:03:09.2864729+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:03:24.2821164+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:03:39.2868141+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:03:54.2808556+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:03:55.1159395+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-30T15:03:55.344346+02:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-07-30T15:03:55.3568526+02:00","level":"INFO","msg":"stream: closing","id":"rsed7ae6"}
+{"time":"2025-07-30T15:03:55.3573669+02:00","level":"INFO","msg":"handler: closed","stream_id":"rsed7ae6"}
+{"time":"2025-07-30T15:03:55.3577449+02:00","level":"INFO","msg":"sender: closed","stream_id":"rsed7ae6"}
+{"time":"2025-07-30T15:03:55.3577449+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"rsed7ae6"}
+{"time":"2025-07-30T15:03:55.3582556+02:00","level":"INFO","msg":"stream: closed","id":"rsed7ae6"}

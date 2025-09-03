@@ -1,0 +1,9 @@
+{"time":"2025-08-26T13:05:45.8571223+02:00","level":"INFO","msg":"stream: starting","core version":"0.21.1"}
+{"time":"2025-08-26T13:05:46.3125112+02:00","level":"INFO","msg":"stream: created new stream","id":"f86wogtp"}
+{"time":"2025-08-26T13:05:46.3125112+02:00","level":"INFO","msg":"stream: started","id":"f86wogtp"}
+{"time":"2025-08-26T13:05:46.3125112+02:00","level":"INFO","msg":"handler: started","stream_id":"f86wogtp"}
+{"time":"2025-08-26T13:05:46.3125112+02:00","level":"INFO","msg":"sender: started","stream_id":"f86wogtp"}
+{"time":"2025-08-26T13:05:46.3125112+02:00","level":"INFO","msg":"writer: started","stream_id":"f86wogtp"}
+{"time":"2025-08-26T13:06:01.6793056+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-08-26T13:06:16.6225662+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-08-26T13:06:31.6481668+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}

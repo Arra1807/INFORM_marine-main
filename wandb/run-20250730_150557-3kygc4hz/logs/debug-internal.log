@@ -1,0 +1,38 @@
+{"time":"2025-07-30T15:05:58.187938+02:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-30T15:05:58.5537536+02:00","level":"INFO","msg":"stream: created new stream","id":"3kygc4hz"}
+{"time":"2025-07-30T15:05:58.55426+02:00","level":"INFO","msg":"stream: started","id":"3kygc4hz"}
+{"time":"2025-07-30T15:05:58.55426+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"3kygc4hz"}
+{"time":"2025-07-30T15:05:58.55426+02:00","level":"INFO","msg":"sender: started","stream_id":"3kygc4hz"}
+{"time":"2025-07-30T15:05:58.55426+02:00","level":"INFO","msg":"handler: started","stream_id":"3kygc4hz"}
+{"time":"2025-07-30T15:06:13.9080385+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:06:29.0459444+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:06:43.9096005+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:06:58.9090133+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:07:13.9117635+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:07:28.9142752+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:07:43.9113855+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:07:58.9106745+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:08:13.9107046+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:08:28.91028+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:08:43.9108277+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:08:59.0036797+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:09:13.9070576+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:09:28.9105614+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:09:43.9411246+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:09:58.9084874+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:10:13.9126409+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:10:28.9141682+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:10:43.9054616+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:10:58.9060566+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:11:13.9087997+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:11:28.9068636+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:11:43.9104092+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:11:58.9092298+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:12:13.9115413+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-30T15:12:26.9094788+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-30T15:12:27.0670718+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 3-3","runtime_seconds":0.1565121}],"total_operations":1}}
+{"time":"2025-07-30T15:12:27.2400578+02:00","level":"INFO","msg":"stream: closing","id":"3kygc4hz"}
+{"time":"2025-07-30T15:12:27.2405963+02:00","level":"INFO","msg":"handler: closed","stream_id":"3kygc4hz"}
+{"time":"2025-07-30T15:12:27.2411279+02:00","level":"INFO","msg":"sender: closed","stream_id":"3kygc4hz"}
+{"time":"2025-07-30T15:12:27.2405963+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"3kygc4hz"}
+{"time":"2025-07-30T15:12:27.2417821+02:00","level":"INFO","msg":"stream: closed","id":"3kygc4hz"}

@@ -1,0 +1,6 @@
+Number of echograms: 1
+Label shape: (180, 224, 224)
+Data shape: (180, 6, 224, 224)
+Mask shape: (180, 224, 224)
+C:\Users\shado\AppData\Local\Temp\ipykernel_14744\3292871278.py:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  data_patch = torch.stack([torch.tensor(x).float() for x in data_patch])

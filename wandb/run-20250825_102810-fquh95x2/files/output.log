@@ -1,0 +1,44 @@
+Number of patches per echogram for training: [5, 6, 7, 6, 4, 7, 6, 6]
+Number of patches per echogram for testing: [4, 14]
+Total number of training generators: 8
+Total number of testing generators: 2
+No such comm: 3a9abe1898b14013b2ce6d00d2e5cffe
+No such comm: 42cc859247eb4f43a1263a458d95f72c
+No such comm: a43deb498c7e41e598e002cae28ef5a6
+No such comm: 844b8246985846eab5ccb468107649a0
+No such comm: 9cbd7a9e852d412dbaf5861f37d2c958
+No such comm: 2019380d24e34aa6b8cda321ecc8a047
+No such comm: 59b618dc93cf4f9f8537ee6b4dc4236d
+No such comm: 40dcc8528eb241989583b983751fa1de
+No such comm: 308fc6b4da7a47258bab4b4ad3d0da08
+No such comm: 4058fdc900b543de95880570e033d480
+No such comm: d6052211615a460b90383713c5d45900
+No such comm: 870ade4114a245558b51399c574284d6
+No such comm: 06845675880f4934bcce335321815302
+No such comm: e6025a885ecb425f8c409a286de4e8eb
+No such comm: e2fbdcb221c2488ebb57dd716a36c389
+No such comm: ddae79b2a355438d85e1768b706c5734
+-------Dimensions for Training set-------------
+Data shape: torch.Size([47, 6, 448, 448])
+-------Dimensions for Test set-------------
+Data shape: torch.Size([18, 6, 448, 448])
+-------Dimensions for Training set-------------
+Data shape: torch.Size([47, 6, 448, 448])
+Data shape: torch.Size([47, 6, 448, 448])
+-------Dimensions for Test set-------------
+Data shape: torch.Size([18, 6, 448, 448])
+-------Dimensions for Training set-------------
+Data shape: torch.Size([47, 6, 448, 448])
+Data shape: torch.Size([47, 6, 448, 448])
+-------Dimensions for Test set-------------
+Data shape: torch.Size([18, 6, 448, 448])
+-------Dimensions for Training set-------------
+Data shape: torch.Size([47, 6, 448, 448])
+-------Dimensions for Test set-------------
+Data shape: torch.Size([18, 6, 448, 448])
+-------Dimensions for Training set-------------
+Data shape: torch.Size([47, 6, 448, 448])
+-------Dimensions for Test set-------------
+Data shape: torch.Size([18, 6, 448, 448])
+Epoch 1/50:   0%|          | 0/1 [00:30<?, ?it/s]
+Epoch 1/50:   0%|          | 0/1 [00:12<?, ?it/s]

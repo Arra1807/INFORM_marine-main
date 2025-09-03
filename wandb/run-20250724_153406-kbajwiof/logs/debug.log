@@ -1,0 +1,54 @@
+2025-07-24 15:34:06,506 INFO    MainThread:31764 [wandb_init.py:setup_run_log_directory():703] Logging user logs to c:\Users\shado\Documents\Master Thesis\INFORM_marine-main_new\INFORM_marine-main\wandb\run-20250724_153406-kbajwiof\logs\debug.log
+2025-07-24 15:34:06,508 INFO    MainThread:31764 [wandb_init.py:setup_run_log_directory():704] Logging internal logs to c:\Users\shado\Documents\Master Thesis\INFORM_marine-main_new\INFORM_marine-main\wandb\run-20250724_153406-kbajwiof\logs\debug-internal.log
+2025-07-24 15:34:06,511 INFO    MainThread:31764 [wandb_init.py:monkeypatch_ipython():622] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001F8130DC8C0>
+2025-07-24 15:34:06,512 INFO    MainThread:31764 [wandb_init.py:init():830] calling init triggers
+2025-07-24 15:34:06,515 INFO    MainThread:31764 [wandb_init.py:init():835] wandb.init called with sweep_config: {}
+config: {'model': ResNetAutoEncoder(
+  (encoder): Sequential(
+    (0): Conv2d(6, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+    (1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU(inplace=True)
+    (3): Identity()
+    (4): Sequential(
+      (0): BasicBlock(
+        (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+        (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+      (1): BasicBlock(
+        (conv1): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+        (relu): ReLU(inplace=True)
+        (conv2): Conv2d(64, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1), bias=False)
+        (bn2): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+      )
+    )
+  )
+  (compressor): Sequential(
+    (0): Conv2d(64, 3, kernel_size=(1, 1), stride=(1, 1))
+    (1): BatchNorm2d(3, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): Sigmoid()
+  )
+  (decoder): Sequential(
+    (0): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (1): BatchNorm2d(64, eps=1e-05, momentum=0.1, affine=True, track_running_stats=True)
+    (2): ReLU()
+    (3): Conv2d(64, 6, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
+    (4): Sigmoid()
+  )
+), 'batch_size': 32, 'learning_rate': 0.001, 'epochs': 50, '_wandb': {}}
+2025-07-24 15:34:07,726 INFO    MainThread:31764 [wandb_init.py:init():871] starting backend
+2025-07-24 15:34:07,727 INFO    MainThread:31764 [wandb_init.py:init():874] sending inform_init request
+2025-07-24 15:34:07,768 INFO    MainThread:31764 [wandb_init.py:init():882] backend started and connected
+2025-07-24 15:34:08,405 INFO    MainThread:31764 [wandb_run.py:_label_probe_notebook():1304] probe notebook
+2025-07-24 15:34:08,415 INFO    MainThread:31764 [wandb_init.py:init():953] updated telemetry
+2025-07-24 15:34:08,419 INFO    MainThread:31764 [wandb_init.py:init():977] communicating run to backend with 90.0 second timeout
+2025-07-24 15:34:08,699 INFO    MainThread:31764 [wandb_init.py:init():1029] starting run threads in backend
+2025-07-24 15:34:09,460 INFO    MainThread:31764 [wandb_run.py:_console_start():2458] atexit reg
+2025-07-24 15:34:09,460 INFO    MainThread:31764 [wandb_run.py:_redirect():2306] redirect: wrap_raw
+2025-07-24 15:34:09,461 INFO    MainThread:31764 [wandb_run.py:_redirect():2375] Wrapping output streams.
+2025-07-24 15:34:09,462 INFO    MainThread:31764 [wandb_run.py:_redirect():2398] Redirects installed.
+2025-07-24 15:34:09,466 INFO    MainThread:31764 [wandb_init.py:init():1075] run started, returning control to user process
+2025-07-24 15:34:10,152 INFO    MainThread:31764 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend

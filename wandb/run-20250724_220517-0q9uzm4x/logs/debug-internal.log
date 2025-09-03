@@ -1,0 +1,22 @@
+{"time":"2025-07-24T22:05:19.2105423+02:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-24T22:05:20.0746817+02:00","level":"INFO","msg":"stream: created new stream","id":"0q9uzm4x"}
+{"time":"2025-07-24T22:05:20.0754182+02:00","level":"INFO","msg":"stream: started","id":"0q9uzm4x"}
+{"time":"2025-07-24T22:05:20.0754182+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"0q9uzm4x"}
+{"time":"2025-07-24T22:05:20.0754182+02:00","level":"INFO","msg":"handler: started","stream_id":"0q9uzm4x"}
+{"time":"2025-07-24T22:05:20.0754182+02:00","level":"INFO","msg":"sender: started","stream_id":"0q9uzm4x"}
+{"time":"2025-07-24T22:05:35.7974541+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T22:05:50.8739655+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T22:06:05.5225888+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T22:06:20.4317449+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T22:06:35.4429709+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T22:06:50.4336177+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T22:07:05.5841378+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T22:07:20.4310557+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T22:07:35.4498403+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T22:07:42.8809283+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-24T22:07:43.0979952+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading data","runtime_seconds":0.21408}],"total_operations":1}}
+{"time":"2025-07-24T22:07:43.3668378+02:00","level":"INFO","msg":"stream: closing","id":"0q9uzm4x"}
+{"time":"2025-07-24T22:07:43.3702742+02:00","level":"INFO","msg":"handler: closed","stream_id":"0q9uzm4x"}
+{"time":"2025-07-24T22:07:43.3916836+02:00","level":"INFO","msg":"sender: closed","stream_id":"0q9uzm4x"}
+{"time":"2025-07-24T22:07:43.3764277+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"0q9uzm4x"}
+{"time":"2025-07-24T22:07:43.3916836+02:00","level":"INFO","msg":"stream: closed","id":"0q9uzm4x"}

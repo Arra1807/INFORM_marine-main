@@ -1,0 +1,25 @@
+Number of patches per echogram for training: [6, 5, 6, 4, 4, 7, 7, 14]
+Number of patches per echogram for testing: [6, 6]
+Total number of training generators: 8
+Total number of testing generators: 2
+No such comm: e80efec7021d4934b18cadaf81997615
+No such comm: 2d84830bfaa841988e5c11c6e8f4dcb5
+No such comm: a64e1b2c0ac847b3924409c599f7d519
+No such comm: 2d270dec3e624da79c649eeb2e8402b4
+No such comm: 4fb88e2f4a764d66b3862355d06996af
+No such comm: a60705d0e7e94d44aa612c2c5a138252
+No such comm: ed272b5376f846668e8328d75af9c8e5
+No such comm: a11a775c25544c119ae9495e1fc3b354
+No such comm: 8b0799b1af8349239c01100156b003f3
+No such comm: 636d24236e484679a2c3f21f92e6381c
+No such comm: 6598a5e4bd094213aea1a3b3128c21ee
+No such comm: 21e4298ae70d4a589409d1e174507dca
+No such comm: 9985fcb2918a42adae6b0f16d5b31aef
+No such comm: 76fe9d8968164e46bdb5762dd85f78a4
+No such comm: 61f8230329bb4b8487081679ff872ebe
+No such comm: 94fd3590f470442cb928f667075b63b6
+-------Dimensions for Training set-------------
+Data shape: torch.Size([53, 6, 448, 448])
+-------Dimensions for Test set-------------
+Data shape: torch.Size([12, 6, 448, 448])
+Epoch 1/50:   0%|          | 0/1 [00:00<?, ?it/s]

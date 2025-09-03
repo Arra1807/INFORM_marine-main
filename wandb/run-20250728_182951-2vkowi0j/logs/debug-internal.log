@@ -1,0 +1,8 @@
+{"time":"2025-07-28T18:29:51.7223382+02:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-28T18:29:53.7913569+02:00","level":"INFO","msg":"stream: created new stream","id":"2vkowi0j"}
+{"time":"2025-07-28T18:29:53.7918837+02:00","level":"INFO","msg":"stream: started","id":"2vkowi0j"}
+{"time":"2025-07-28T18:29:53.7918837+02:00","level":"INFO","msg":"handler: started","stream_id":"2vkowi0j"}
+{"time":"2025-07-28T18:29:53.7929444+02:00","level":"INFO","msg":"sender: started","stream_id":"2vkowi0j"}
+{"time":"2025-07-28T18:29:53.7929444+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"2vkowi0j"}
+{"time":"2025-07-28T18:31:24.2953122+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-28T18:31:39.1975128+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}

@@ -1,0 +1,20 @@
+{"time":"2025-07-24T22:02:04.7140149+02:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-24T22:02:05.2459303+02:00","level":"INFO","msg":"stream: created new stream","id":"4xtbztnl"}
+{"time":"2025-07-24T22:02:05.2464809+02:00","level":"INFO","msg":"stream: started","id":"4xtbztnl"}
+{"time":"2025-07-24T22:02:05.2464809+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"4xtbztnl"}
+{"time":"2025-07-24T22:02:05.2464809+02:00","level":"INFO","msg":"sender: started","stream_id":"4xtbztnl"}
+{"time":"2025-07-24T22:02:05.2464809+02:00","level":"INFO","msg":"handler: started","stream_id":"4xtbztnl"}
+{"time":"2025-07-24T22:02:20.6441295+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T22:02:35.6324141+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T22:02:50.6273072+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T22:03:05.6633605+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T22:03:20.626798+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T22:03:35.6254446+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T22:03:50.7364177+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T22:03:59.3263688+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.4610067,"progress":"5.5KB/5.5KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3546513,"progress":"41B/41B"},{"desc":"uploading config.yaml","runtime_seconds":0.3434024,"progress":"1.6KB/1.6KB"}],"total_operations":3}}
+{"time":"2025-07-24T22:03:59.4525371+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-24T22:03:59.8558359+02:00","level":"INFO","msg":"stream: closing","id":"4xtbztnl"}
+{"time":"2025-07-24T22:03:59.8624997+02:00","level":"INFO","msg":"handler: closed","stream_id":"4xtbztnl"}
+{"time":"2025-07-24T22:03:59.8732916+02:00","level":"INFO","msg":"sender: closed","stream_id":"4xtbztnl"}
+{"time":"2025-07-24T22:03:59.8645062+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":"4xtbztnl"}
+{"time":"2025-07-24T22:03:59.8768072+02:00","level":"INFO","msg":"stream: closed","id":"4xtbztnl"}

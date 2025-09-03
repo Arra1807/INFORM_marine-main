@@ -1,0 +1,56 @@
+_wandb:
+    value:
+        cli_version: 0.21.0
+        e:
+            ce99xjlkhbqs81pdvk4421a3d775zgzs:
+                codePath: data_patching.ipynb
+                codePathLocal: data_patching.ipynb
+                cpu_count: 4
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "510665232384"
+                        used: "260863393792"
+                email: arangan18@hotmail.com
+                executable: c:\Users\shado\AppData\Local\Programs\Python\Python312\python.exe
+                host: Asus
+                memory:
+                    total: "6387490816"
+                os: Windows-11-10.0.26100-SP0
+                program: c:\Users\shado\Documents\Master Thesis\INFORM_marine-main_new\INFORM_marine-main\data_patching.ipynb
+                python: CPython 3.12.5
+                root: c:\Users\shado\Documents\Master Thesis\INFORM_marine-main_new\INFORM_marine-main
+                startedAt: "2025-07-24T19:45:17.437502Z"
+                writerId: ce99xjlkhbqs81pdvk4421a3d775zgzs
+        m: []
+        python_version: 3.12.5
+        t:
+            "1":
+                - 1
+                - 5
+                - 41
+                - 53
+            "2":
+                - 1
+                - 5
+                - 41
+                - 53
+            "3":
+                - 1
+                - 2
+                - 16
+            "4": 3.12.5
+            "5": 0.21.0
+            "8":
+                - 1
+                - 3
+            "12": 0.21.0
+            "13": windows-amd64
+batch_size:
+    value: 64
+epochs:
+    value: 50
+learning_rate:
+    value: 0.001
+model:
+    value: ResNetAutoEncoder

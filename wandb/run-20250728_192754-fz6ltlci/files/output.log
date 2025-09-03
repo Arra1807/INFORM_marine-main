@@ -1,0 +1,9 @@
+668
+168
+c:\Users\shado\AppData\Local\Programs\Python\Python312\Lib\site-packages\torchvision\models\_utils.py:135: UserWarning: Using 'weights' as positional parameter(s) is deprecated since 0.13 and may be removed in the future. Please use keyword parameter(s) instead.
+  warnings.warn(
+Epoch 1/50: 100%|██████████| 11/11 [00:45<00:00,  4.13s/it]
+ Train Loss = 0.0227 ,Validation Loss = 0.0142
+Epoch 2/50:  55%|█████▍    | 6/11 [00:25<00:21,  4.33s/it]
+Number of echograms: 10
+[<data.echosounder_data.load_data.echogram.Echogram object at 0x000001E227AA66C0>, <data.echosounder_data.load_data.echogram.Echogram object at 0x000001E227B33DA0>, <data.echosounder_data.load_data.echogram.Echogram object at 0x000001E227B33D70>, <data.echosounder_data.load_data.echogram.Echogram object at 0x000001E227872C30>, <data.echosounder_data.load_data.echogram.Echogram object at 0x000001E227AF33B0>, <data.echosounder_data.load_data.echogram.Echogram object at 0x000001E22761B530>, <data.echosounder_data.load_data.echogram.Echogram object at 0x000001E22EBEC440>, <data.echosounder_data.load_data.echogram.Echogram object at 0x000001E22EBED250>, <data.echosounder_data.load_data.echogram.Echogram object at 0x000001E22EBED640>, <data.echosounder_data.load_data.echogram.Echogram object at 0x000001E22EBEE0C0>]

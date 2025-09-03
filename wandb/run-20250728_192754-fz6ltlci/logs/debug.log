@@ -1,0 +1,30 @@
+2025-07-28 19:27:54,701 INFO    MainThread:19872 [wandb_setup.py:_flush():80] Current SDK version is 0.21.0
+2025-07-28 19:27:54,702 INFO    MainThread:19872 [wandb_setup.py:_flush():80] Configure stats pid to 19872
+2025-07-28 19:27:54,702 INFO    MainThread:19872 [wandb_setup.py:_flush():80] Loading settings from C:\Users\shado\.config\wandb\settings
+2025-07-28 19:27:54,702 INFO    MainThread:19872 [wandb_setup.py:_flush():80] Loading settings from c:\Users\shado\Documents\Master Thesis\INFORM_marine-main_new\INFORM_marine-main\wandb\settings
+2025-07-28 19:27:54,702 INFO    MainThread:19872 [wandb_setup.py:_flush():80] Loading settings from environment variables
+2025-07-28 19:27:54,702 INFO    MainThread:19872 [wandb_init.py:setup_run_log_directory():703] Logging user logs to c:\Users\shado\Documents\Master Thesis\INFORM_marine-main_new\INFORM_marine-main\wandb\run-20250728_192754-fz6ltlci\logs\debug.log
+2025-07-28 19:27:54,703 INFO    MainThread:19872 [wandb_init.py:setup_run_log_directory():704] Logging internal logs to c:\Users\shado\Documents\Master Thesis\INFORM_marine-main_new\INFORM_marine-main\wandb\run-20250728_192754-fz6ltlci\logs\debug-internal.log
+2025-07-28 19:27:54,704 INFO    MainThread:19872 [wandb_init.py:monkeypatch_ipython():622] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001E21D1AD280>
+2025-07-28 19:27:54,704 INFO    MainThread:19872 [wandb_init.py:init():830] calling init triggers
+2025-07-28 19:27:54,704 INFO    MainThread:19872 [wandb_init.py:init():835] wandb.init called with sweep_config: {}
+config: {'batch_size': 64, 'learning_rate': 0.001, 'epochs': 50, 'Weight_decay': 0.0001, '_wandb': {}}
+2025-07-28 19:27:54,704 INFO    MainThread:19872 [wandb_init.py:init():871] starting backend
+2025-07-28 19:27:55,176 INFO    MainThread:19872 [wandb_init.py:init():874] sending inform_init request
+2025-07-28 19:27:55,402 INFO    MainThread:19872 [wandb_init.py:init():882] backend started and connected
+2025-07-28 19:27:55,406 INFO    MainThread:19872 [wandb_run.py:_label_probe_notebook():1304] probe notebook
+2025-07-28 19:27:55,412 INFO    MainThread:19872 [wandb_init.py:init():953] updated telemetry
+2025-07-28 19:27:55,413 INFO    MainThread:19872 [wandb_init.py:init():977] communicating run to backend with 90.0 second timeout
+2025-07-28 19:27:57,372 INFO    MainThread:19872 [wandb_init.py:init():1029] starting run threads in backend
+2025-07-28 19:27:57,763 INFO    MainThread:19872 [wandb_run.py:_console_start():2458] atexit reg
+2025-07-28 19:27:57,764 INFO    MainThread:19872 [wandb_run.py:_redirect():2306] redirect: wrap_raw
+2025-07-28 19:27:57,764 INFO    MainThread:19872 [wandb_run.py:_redirect():2375] Wrapping output streams.
+2025-07-28 19:27:57,764 INFO    MainThread:19872 [wandb_run.py:_redirect():2398] Redirects installed.
+2025-07-28 19:27:57,773 INFO    MainThread:19872 [wandb_init.py:init():1075] run started, returning control to user process
+2025-07-28 19:27:57,823 INFO    MainThread:19872 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-07-28 19:28:06,621 INFO    MainThread:19872 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-07-28 19:28:06,622 INFO    MainThread:19872 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-07-28 19:29:26,114 INFO    MainThread:19872 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend
+2025-07-28 19:31:54,228 INFO    MainThread:19872 [jupyter.py:save_ipynb():404] [no run ID] not saving jupyter notebook
+2025-07-28 19:31:54,237 INFO    MainThread:19872 [wandb_init.py:_pre_run_cell_hook():581] [no run ID] pausing backend
+2025-07-28 19:31:54,600 INFO    MainThread:19872 [wandb_init.py:_post_run_cell_hook():592] [no run ID] resuming backend

@@ -1,0 +1,22 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.11.4",
+  "startedAt":  "2025-08-25T09:06:42.281860Z",
+  "program":  "<python with no main file>",
+  "email":  "arangan18@hotmail.com",
+  "root":  "c:\\Users\\shado\\Documents\\Master Thesis\\INFORM_marine-main_new\\INFORM_marine-main",
+  "host":  "Asus",
+  "executable":  "c:\\Users\\shado\\anaconda3\\python.exe",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "510665232384",
+      "used":  "248794103808"
+    }
+  },
+  "memory":  {
+    "total":  "6387490816"
+  },
+  "writerId":  "kja27xijz10kyufhtvzel3vegzkjcu1r"
+}

@@ -1,0 +1,220 @@
+Epoch 1/20: 100%|██████████| 3/3 [00:12<00:00,  4.33s/it]
+Train encodings: min=0.0054, max=0.9969
+Train Loss = 0.0531
+Val encodings: min=0.0700, max=0.6936
+ Validation Loss = 0.0625
+Saved new best model at epoch 21 with val_loss = 0.0625
+Epoch 2/20: 100%|██████████| 3/3 [00:10<00:00,  3.64s/it]
+Train encodings: min=0.0016, max=0.9874
+Train Loss = 0.0299
+Val encodings: min=0.0846, max=0.6723
+ Validation Loss = 0.0485
+Saved new best model at epoch 21 with val_loss = 0.0485
+Epoch 3/20: 100%|██████████| 3/3 [00:08<00:00,  2.90s/it]
+Train encodings: min=0.0046, max=0.9893
+Train Loss = 0.0091
+Val encodings: min=0.0860, max=0.7174
+ Validation Loss = 0.0397
+Saved new best model at epoch 21 with val_loss = 0.0397
+Epoch 4/20: 100%|██████████| 3/3 [00:05<00:00,  1.69s/it]
+Train encodings: min=0.0190, max=0.9855
+Train Loss = 0.0082
+Val encodings: min=0.0716, max=0.7714
+ Validation Loss = 0.0419
+Epoch 5/20: 100%|██████████| 3/3 [00:08<00:00,  2.95s/it]
+Train encodings: min=0.0108, max=0.9917
+Train Loss = 0.0079
+Val encodings: min=0.0779, max=0.8149
+ Validation Loss = 0.0336
+Saved new best model at epoch 21 with val_loss = 0.0336
+Epoch 6/20: 100%|██████████| 3/3 [00:03<00:00,  1.13s/it]
+Train encodings: min=0.0115, max=0.9888
+Train Loss = 0.0114
+Val encodings: min=0.0857, max=0.8180
+ Validation Loss = 0.0263
+Saved new best model at epoch 21 with val_loss = 0.0263
+Epoch 7/20: 100%|██████████| 3/3 [00:03<00:00,  1.25s/it]
+Train encodings: min=0.0073, max=0.9969
+Train Loss = 0.0085
+Val encodings: min=0.0864, max=0.8253
+ Validation Loss = 0.0143
+Saved new best model at epoch 21 with val_loss = 0.0143
+Epoch 8/20: 100%|██████████| 3/3 [00:07<00:00,  2.35s/it]
+Train encodings: min=0.0024, max=0.9964
+Train Loss = 0.0080
+Val encodings: min=0.0112, max=0.9703
+ Validation Loss = 0.0417
+Epoch 9/20: 100%|██████████| 3/3 [00:09<00:00,  3.05s/it]
+Train encodings: min=0.0060, max=0.9957
+Train Loss = 0.0088
+Val encodings: min=0.1255, max=0.8096
+ Validation Loss = 0.0138
+Saved new best model at epoch 21 with val_loss = 0.0138
+Epoch 10/20: 100%|██████████| 3/3 [00:09<00:00,  3.12s/it]
+Train encodings: min=0.0046, max=0.9950
+Train Loss = 0.0236
+Val encodings: min=0.1270, max=0.8254
+ Validation Loss = 0.0232
+Epoch 11/20: 100%|██████████| 3/3 [00:08<00:00,  2.81s/it]
+Train encodings: min=0.0025, max=0.9950
+Train Loss = 0.0180
+Val encodings: min=0.1545, max=0.8406
+ Validation Loss = 0.0181
+Epoch 12/20: 100%|██████████| 3/3 [00:08<00:00,  2.87s/it]
+Train encodings: min=0.0026, max=0.9982
+Train Loss = 0.0070
+Val encodings: min=0.1427, max=0.8532
+ Validation Loss = 0.0089
+Saved new best model at epoch 21 with val_loss = 0.0089
+Epoch 13/20: 100%|██████████| 3/3 [00:05<00:00,  1.69s/it]
+Train encodings: min=0.0016, max=0.9910
+Train Loss = 0.0136
+Val encodings: min=0.0928, max=0.8609
+ Validation Loss = 0.0077
+Saved new best model at epoch 21 with val_loss = 0.0077
+Epoch 14/20: 100%|██████████| 3/3 [00:11<00:00,  3.77s/it]
+Train encodings: min=0.0018, max=0.9819
+Train Loss = 0.0127
+Val encodings: min=0.0818, max=0.8654
+ Validation Loss = 0.0058
+Saved new best model at epoch 21 with val_loss = 0.0058
+Epoch 15/20: 100%|██████████| 3/3 [00:09<00:00,  3.20s/it]
+Train encodings: min=0.0012, max=0.9863
+Train Loss = 0.0062
+Val encodings: min=0.1007, max=0.9267
+ Validation Loss = 0.0066
+Epoch 16/20: 100%|██████████| 3/3 [00:11<00:00,  3.93s/it]
+Train encodings: min=0.0015, max=0.9796
+Train Loss = 0.0126
+Val encodings: min=0.0736, max=0.8595
+ Validation Loss = 0.0036
+Saved new best model at epoch 21 with val_loss = 0.0036
+Epoch 17/20: 100%|██████████| 3/3 [00:11<00:00,  3.69s/it]
+Train encodings: min=0.0029, max=0.9797
+Train Loss = 0.0103
+Val encodings: min=0.0761, max=0.8996
+ Validation Loss = 0.0061
+Epoch 18/20: 100%|██████████| 3/3 [00:09<00:00,  3.08s/it]
+Train encodings: min=0.0014, max=0.9849
+Train Loss = 0.0046
+Val encodings: min=0.0017, max=0.9825
+ Validation Loss = 0.0120
+Epoch 19/20: 100%|██████████| 3/3 [00:06<00:00,  2.31s/it]
+Train encodings: min=0.0006, max=0.9786
+Train Loss = 0.0046
+Val encodings: min=0.0382, max=0.9230
+ Validation Loss = 0.0055
+Epoch 20/20: 100%|██████████| 3/3 [00:09<00:00,  3.07s/it]
+Train encodings: min=0.0018, max=0.9878
+Train Loss = 0.0104
+Val encodings: min=0.0422, max=0.9525
+ Validation Loss = 0.0058
+Epoch 1/20: 100%|██████████| 3/3 [00:04<00:00,  1.65s/it]
+Train encodings: min=0.0028, max=0.9832
+Train Loss = 0.0599
+Val encodings: min=0.0278, max=0.9444
+ Validation Loss = 0.0587
+Saved new best model at epoch 21 with val_loss = 0.0587
+Epoch 2/20: 100%|██████████| 3/3 [00:01<00:00,  2.00it/s]
+Train encodings: min=0.0037, max=0.9543
+Train Loss = 0.0300
+Val encodings: min=0.0633, max=0.8735
+ Validation Loss = 0.0244
+Saved new best model at epoch 21 with val_loss = 0.0244
+Epoch 3/20: 100%|██████████| 3/3 [00:01<00:00,  1.89it/s]
+Train encodings: min=0.0525, max=0.8950
+Train Loss = 0.0235
+Val encodings: min=0.0802, max=0.8396
+ Validation Loss = 0.0065
+Saved new best model at epoch 21 with val_loss = 0.0065
+Epoch 4/20: 100%|██████████| 3/3 [00:01<00:00,  2.73it/s]
+Train encodings: min=0.0206, max=0.9589
+Train Loss = 0.0290
+Val encodings: min=0.1089, max=0.7822
+ Validation Loss = 0.0080
+Epoch 5/20: 100%|██████████| 3/3 [00:00<00:00,  4.94it/s]
+Train encodings: min=0.0215, max=0.9570
+Train Loss = 0.0225
+Val encodings: min=0.0219, max=0.9561
+ Validation Loss = 0.0617
+Epoch 6/20: 100%|██████████| 3/3 [00:00<00:00,  4.11it/s]
+Train encodings: min=0.0475, max=0.9050
+Train Loss = 0.0086
+Val encodings: min=0.0800, max=0.8401
+ Validation Loss = 0.0100
+Epoch 7/20: 100%|██████████| 3/3 [00:00<00:00,  3.51it/s]
+Train encodings: min=0.0147, max=0.9706
+Train Loss = 0.0187
+Val encodings: min=0.0224, max=0.9551
+ Validation Loss = 0.0676
+Epoch 8/20: 100%|██████████| 3/3 [00:00<00:00,  3.77it/s]
+Train encodings: min=0.0967, max=0.8065
+Train Loss = 0.0062
+Val encodings: min=0.0823, max=0.8354
+ Validation Loss = 0.0086
+Epoch 9/20: 100%|██████████| 3/3 [00:00<00:00,  4.08it/s]
+Train encodings: min=0.0111, max=0.9779
+Train Loss = 0.0340
+Val encodings: min=0.0843, max=0.8315
+ Validation Loss = 0.0102
+Epoch 10/20: 100%|██████████| 3/3 [00:00<00:00,  4.33it/s]
+Train encodings: min=0.0412, max=0.9177
+Train Loss = 0.0078
+Val encodings: min=0.1010, max=0.7979
+ Validation Loss = 0.0085
+Epoch 11/20: 100%|██████████| 3/3 [00:00<00:00,  3.49it/s]
+Train encodings: min=0.0294, max=0.9412
+Train Loss = 0.0273
+Val encodings: min=0.0335, max=0.9330
+ Validation Loss = 0.0679
+Epoch 12/20: 100%|██████████| 3/3 [00:00<00:00,  4.92it/s]
+Train encodings: min=0.0930, max=0.8139
+Train Loss = 0.0081
+Val encodings: min=0.1098, max=0.7805
+ Validation Loss = 0.0065
+Saved new best model at epoch 21 with val_loss = 0.0065
+Epoch 13/20: 100%|██████████| 3/3 [00:00<00:00,  4.35it/s]
+Train encodings: min=0.0661, max=0.8678
+Train Loss = 0.0077
+Val encodings: min=0.1117, max=0.7765
+ Validation Loss = 0.0061
+Saved new best model at epoch 21 with val_loss = 0.0061
+Epoch 14/20: 100%|██████████| 3/3 [00:00<00:00,  3.57it/s]
+Train encodings: min=0.1146, max=0.7707
+Train Loss = 0.0055
+Val encodings: min=0.1107, max=0.7786
+ Validation Loss = 0.0077
+Epoch 15/20: 100%|██████████| 3/3 [00:00<00:00,  5.28it/s]
+Train encodings: min=0.0467, max=0.9066
+Train Loss = 0.0227
+Val encodings: min=0.0765, max=0.8469
+ Validation Loss = 0.0061
+Epoch 16/20: 100%|██████████| 3/3 [00:00<00:00,  4.82it/s]
+Train encodings: min=0.0417, max=0.9166
+Train Loss = 0.0193
+Val encodings: min=0.0478, max=0.9044
+ Validation Loss = 0.0039
+Saved new best model at epoch 21 with val_loss = 0.0039
+Epoch 17/20: 100%|██████████| 3/3 [00:00<00:00,  4.57it/s]
+Train encodings: min=0.0668, max=0.8663
+Train Loss = 0.0076
+Val encodings: min=0.1141, max=0.7718
+ Validation Loss = 0.0057
+Epoch 18/20: 100%|██████████| 3/3 [00:01<00:00,  2.54it/s]
+Train encodings: min=0.0968, max=0.8064
+Train Loss = 0.0057
+Val encodings: min=0.0213, max=0.9575
+ Validation Loss = 0.0600
+Epoch 19/20: 100%|██████████| 3/3 [00:00<00:00,  4.63it/s]
+Train encodings: min=0.0558, max=0.8883
+Train Loss = 0.0072
+Val encodings: min=0.0364, max=0.9272
+ Validation Loss = 0.0067
+Epoch 20/20: 100%|██████████| 3/3 [00:00<00:00,  4.13it/s]
+Train encodings: min=0.0515, max=0.8970
+Train Loss = 0.0072
+Val encodings: min=0.0725, max=0.8550
+ Validation Loss = 0.0060
+C:\Users\shado\AppData\Local\Temp\ipykernel_11768\3212142797.py:6: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  data_patch = torch.stack([torch.tensor(x).float() for x in data_patch])
+torch.Size([180, 6, 224, 224])

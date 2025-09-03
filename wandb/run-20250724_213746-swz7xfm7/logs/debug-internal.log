@@ -1,0 +1,11 @@
+{"time":"2025-07-24T21:37:47.9731172+02:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-24T21:37:48.5370399+02:00","level":"INFO","msg":"stream: created new stream","id":"swz7xfm7"}
+{"time":"2025-07-24T21:37:48.5370399+02:00","level":"INFO","msg":"stream: started","id":"swz7xfm7"}
+{"time":"2025-07-24T21:37:48.5370399+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"swz7xfm7"}
+{"time":"2025-07-24T21:37:48.5370399+02:00","level":"INFO","msg":"sender: started","stream_id":"swz7xfm7"}
+{"time":"2025-07-24T21:37:48.5370399+02:00","level":"INFO","msg":"handler: started","stream_id":"swz7xfm7"}
+{"time":"2025-07-24T21:38:03.8847147+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T21:38:18.8725247+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T21:38:33.8734465+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T21:38:48.8734504+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-07-24T21:39:03.8747869+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}

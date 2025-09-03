@@ -1,0 +1,245 @@
+Epoch 1/50: 100%|██████████| 3/3 [00:04<00:00,  1.48s/it]
+Train encodings: min=0.0006, max=0.9877
+Val encodings: min=0.1929, max=0.6562
+ Validation Loss = 0.0746, Train Loss = 0.1045
+Epoch 2/50: 100%|██████████| 3/3 [00:03<00:00,  1.08s/it]
+Train encodings: min=0.0002, max=0.9966
+Val encodings: min=0.1794, max=0.6291
+ Validation Loss = 0.0567, Train Loss = 0.0802
+Epoch 3/50: 100%|██████████| 3/3 [00:02<00:00,  1.05it/s]
+Train encodings: min=0.0032, max=0.9853
+Val encodings: min=0.1857, max=0.6787
+ Validation Loss = 0.0480, Train Loss = 0.0829
+Epoch 4/50: 100%|██████████| 3/3 [00:02<00:00,  1.02it/s]
+Train encodings: min=0.0010, max=0.9886
+Val encodings: min=0.1842, max=0.7226
+ Validation Loss = 0.0496, Train Loss = 0.0686
+Epoch 5/50: 100%|██████████| 3/3 [00:03<00:00,  1.27s/it]
+Train encodings: min=0.0014, max=0.9883
+Val encodings: min=0.2374, max=0.7385
+ Validation Loss = 0.0912, Train Loss = 0.0520
+Epoch 6/50: 100%|██████████| 3/3 [00:04<00:00,  1.41s/it]
+Train encodings: min=0.0072, max=0.9850
+Val encodings: min=0.2061, max=0.7789
+ Validation Loss = 0.0558, Train Loss = 0.0596
+Stopping early at epoch 6
+Epoch 7/50: 100%|██████████| 3/3 [00:04<00:00,  1.49s/it]
+Train encodings: min=0.0017, max=0.9957
+Val encodings: min=0.2005, max=0.8192
+ Validation Loss = 0.0470, Train Loss = 0.0455
+Stopping early at epoch 7
+Epoch 8/50: 100%|██████████| 3/3 [00:04<00:00,  1.38s/it]
+Train encodings: min=0.0016, max=0.9972
+Val encodings: min=0.1909, max=0.8691
+ Validation Loss = 0.0535, Train Loss = 0.0511
+Stopping early at epoch 8
+Epoch 9/50: 100%|██████████| 3/3 [00:04<00:00,  1.45s/it]
+Train encodings: min=0.0025, max=0.9933
+Val encodings: min=0.1496, max=0.8811
+ Validation Loss = 0.0682, Train Loss = 0.0371
+Stopping early at epoch 9
+Epoch 10/50: 100%|██████████| 3/3 [00:04<00:00,  1.46s/it]
+Train encodings: min=0.0074, max=0.9858
+Val encodings: min=0.1206, max=0.8729
+ Validation Loss = 0.0796, Train Loss = 0.0353
+Stopping early at epoch 10
+Epoch 11/50: 100%|██████████| 3/3 [00:04<00:00,  1.33s/it]
+Train encodings: min=0.0015, max=0.9954
+Val encodings: min=0.1470, max=0.9679
+ Validation Loss = 0.0492, Train Loss = 0.0335
+Stopping early at epoch 11
+Epoch 12/50: 100%|██████████| 3/3 [00:04<00:00,  1.61s/it]
+Train encodings: min=0.0055, max=0.9967
+Val encodings: min=0.1031, max=0.9420
+ Validation Loss = 0.0433, Train Loss = 0.0386
+Stopping early at epoch 12
+Epoch 13/50: 100%|██████████| 3/3 [00:04<00:00,  1.58s/it]
+Train encodings: min=0.0008, max=0.9957
+Val encodings: min=0.0651, max=0.9137
+ Validation Loss = 0.0517, Train Loss = 0.0257
+Stopping early at epoch 13
+Epoch 14/50: 100%|██████████| 3/3 [00:04<00:00,  1.49s/it]
+Train encodings: min=0.0040, max=0.9920
+Val encodings: min=0.0573, max=0.9181
+ Validation Loss = 0.0436, Train Loss = 0.0267
+Stopping early at epoch 14
+Epoch 15/50: 100%|██████████| 3/3 [00:03<00:00,  1.32s/it]
+Train encodings: min=0.0011, max=0.9920
+Val encodings: min=0.0665, max=0.9666
+ Validation Loss = 0.0281, Train Loss = 0.0197
+Stopping early at epoch 15
+Epoch 16/50: 100%|██████████| 3/3 [00:03<00:00,  1.23s/it]
+Train encodings: min=0.0045, max=0.9915
+Val encodings: min=0.0529, max=0.9417
+ Validation Loss = 0.0209, Train Loss = 0.0205
+Stopping early at epoch 16
+Epoch 17/50: 100%|██████████| 3/3 [00:03<00:00,  1.27s/it]
+Train encodings: min=0.0015, max=0.9917
+Val encodings: min=0.0367, max=0.9551
+ Validation Loss = 0.0279, Train Loss = 0.0223
+Stopping early at epoch 17
+Epoch 18/50: 100%|██████████| 3/3 [00:03<00:00,  1.16s/it]
+Train encodings: min=0.0074, max=0.9918
+Val encodings: min=0.0334, max=0.9963
+ Validation Loss = 0.0433, Train Loss = 0.0325
+Stopping early at epoch 18
+Epoch 19/50: 100%|██████████| 3/3 [00:03<00:00,  1.24s/it]
+Train encodings: min=0.0046, max=0.9933
+Val encodings: min=0.0320, max=0.9973
+ Validation Loss = 0.0494, Train Loss = 0.0165
+Stopping early at epoch 19
+Epoch 20/50: 100%|██████████| 3/3 [00:04<00:00,  1.63s/it]
+Train encodings: min=0.0219, max=0.9899
+Val encodings: min=0.0273, max=0.9453
+ Validation Loss = 0.0131, Train Loss = 0.0244
+Stopping early at epoch 20
+Epoch 21/50: 100%|██████████| 3/3 [00:03<00:00,  1.28s/it]
+Train encodings: min=0.0112, max=0.9935
+Val encodings: min=0.0204, max=0.9519
+ Validation Loss = 0.0158, Train Loss = 0.0244
+Stopping early at epoch 21
+Epoch 22/50: 100%|██████████| 3/3 [00:03<00:00,  1.28s/it]
+Train encodings: min=0.0109, max=0.9884
+Val encodings: min=0.0205, max=0.9741
+ Validation Loss = 0.0132, Train Loss = 0.0217
+Stopping early at epoch 22
+Epoch 23/50: 100%|██████████| 3/3 [00:03<00:00,  1.31s/it]
+Train encodings: min=0.0062, max=0.9928
+Val encodings: min=0.0206, max=0.9737
+ Validation Loss = 0.0115, Train Loss = 0.0130
+Stopping early at epoch 23
+Epoch 24/50: 100%|██████████| 3/3 [00:03<00:00,  1.15s/it]
+Train encodings: min=0.0086, max=0.9900
+Val encodings: min=0.0124, max=0.9961
+ Validation Loss = 0.0471, Train Loss = 0.0317
+Stopping early at epoch 24
+Epoch 25/50: 100%|██████████| 3/3 [00:03<00:00,  1.21s/it]
+Train encodings: min=0.0049, max=0.9800
+Val encodings: min=0.0141, max=0.9957
+ Validation Loss = 0.0476, Train Loss = 0.0230
+Stopping early at epoch 25
+Epoch 26/50: 100%|██████████| 3/3 [00:03<00:00,  1.29s/it]
+Train encodings: min=0.0028, max=0.9823
+Val encodings: min=0.0166, max=0.9761
+ Validation Loss = 0.0099, Train Loss = 0.0263
+Stopping early at epoch 26
+Epoch 27/50: 100%|██████████| 3/3 [00:04<00:00,  1.41s/it]
+Train encodings: min=0.0031, max=0.9815
+Val encodings: min=0.0177, max=0.9440
+ Validation Loss = 0.0083, Train Loss = 0.0257
+Stopping early at epoch 27
+Epoch 28/50: 100%|██████████| 3/3 [00:03<00:00,  1.33s/it]
+Train encodings: min=0.0068, max=0.9774
+Val encodings: min=0.0114, max=0.9806
+ Validation Loss = 0.0091, Train Loss = 0.0177
+Stopping early at epoch 28
+Epoch 29/50: 100%|██████████| 3/3 [00:04<00:00,  1.55s/it]
+Train encodings: min=0.0069, max=0.9893
+Val encodings: min=0.0089, max=0.9766
+ Validation Loss = 0.0075, Train Loss = 0.0091
+Stopping early at epoch 29
+Epoch 30/50: 100%|██████████| 3/3 [00:05<00:00,  1.90s/it]
+Train encodings: min=0.0017, max=0.9901
+Val encodings: min=0.0101, max=0.9696
+ Validation Loss = 0.0077, Train Loss = 0.0177
+Stopping early at epoch 30
+Epoch 31/50: 100%|██████████| 3/3 [00:04<00:00,  1.40s/it]
+Train encodings: min=0.0228, max=0.9914
+Val encodings: min=0.0121, max=0.9692
+ Validation Loss = 0.0087, Train Loss = 0.0099
+Stopping early at epoch 31
+Epoch 32/50: 100%|██████████| 3/3 [00:03<00:00,  1.27s/it]
+Train encodings: min=0.0020, max=0.9885
+Val encodings: min=0.0136, max=0.9777
+ Validation Loss = 0.0084, Train Loss = 0.0091
+Stopping early at epoch 32
+Epoch 33/50: 100%|██████████| 3/3 [00:04<00:00,  1.62s/it]
+Train encodings: min=0.0194, max=0.9925
+Val encodings: min=0.0213, max=0.9730
+ Validation Loss = 0.0065, Train Loss = 0.0171
+Stopping early at epoch 33
+Epoch 34/50: 100%|██████████| 3/3 [00:04<00:00,  1.36s/it]
+Train encodings: min=0.0098, max=0.9755
+Val encodings: min=0.0221, max=0.9676
+ Validation Loss = 0.0058, Train Loss = 0.0234
+Stopping early at epoch 34
+Epoch 35/50: 100%|██████████| 3/3 [00:07<00:00,  2.57s/it]
+Train encodings: min=0.0162, max=0.9902
+Val encodings: min=0.0119, max=0.9775
+ Validation Loss = 0.0064, Train Loss = 0.0082
+Stopping early at epoch 35
+Epoch 36/50: 100%|██████████| 3/3 [00:04<00:00,  1.45s/it]
+Train encodings: min=0.0109, max=0.9883
+Val encodings: min=0.0188, max=0.9829
+ Validation Loss = 0.0067, Train Loss = 0.0069
+Stopping early at epoch 36
+Epoch 37/50: 100%|██████████| 3/3 [00:04<00:00,  1.46s/it]
+Train encodings: min=0.0038, max=0.9907
+Val encodings: min=0.0167, max=0.9841
+ Validation Loss = 0.0075, Train Loss = 0.0090
+Stopping early at epoch 37
+Epoch 38/50: 100%|██████████| 3/3 [00:04<00:00,  1.36s/it]
+Train encodings: min=0.0038, max=0.9902
+Val encodings: min=0.0176, max=0.9889
+ Validation Loss = 0.0071, Train Loss = 0.0184
+Stopping early at epoch 38
+Epoch 39/50: 100%|██████████| 3/3 [00:03<00:00,  1.21s/it]
+Train encodings: min=0.0214, max=0.9903
+Val encodings: min=0.0149, max=0.9665
+ Validation Loss = 0.0059, Train Loss = 0.0076
+Stopping early at epoch 39
+Epoch 40/50: 100%|██████████| 3/3 [00:03<00:00,  1.17s/it]
+Train encodings: min=0.0099, max=0.9839
+Val encodings: min=0.0145, max=0.9843
+ Validation Loss = 0.0059, Train Loss = 0.0080
+Stopping early at epoch 40
+Epoch 41/50: 100%|██████████| 3/3 [00:04<00:00,  1.39s/it]
+Train encodings: min=0.0114, max=0.9860
+Val encodings: min=0.0193, max=0.9851
+ Validation Loss = 0.0062, Train Loss = 0.0070
+Stopping early at epoch 41
+Epoch 42/50: 100%|██████████| 3/3 [00:03<00:00,  1.32s/it]
+Train encodings: min=0.0091, max=0.9853
+Val encodings: min=0.0223, max=0.9926
+ Validation Loss = 0.0059, Train Loss = 0.0068
+Stopping early at epoch 42
+Epoch 43/50: 100%|██████████| 3/3 [00:03<00:00,  1.32s/it]
+Train encodings: min=0.0137, max=0.9837
+Val encodings: min=0.0334, max=0.9763
+ Validation Loss = 0.0054, Train Loss = 0.0174
+Stopping early at epoch 43
+Epoch 44/50: 100%|██████████| 3/3 [00:03<00:00,  1.17s/it]
+Train encodings: min=0.0048, max=0.9907
+Val encodings: min=0.0260, max=0.9728
+ Validation Loss = 0.0053, Train Loss = 0.0155
+Stopping early at epoch 44
+Epoch 45/50: 100%|██████████| 3/3 [00:03<00:00,  1.11s/it]
+Train encodings: min=0.0150, max=0.9912
+Val encodings: min=0.0238, max=0.9907
+ Validation Loss = 0.0056, Train Loss = 0.0071
+Stopping early at epoch 45
+Epoch 46/50: 100%|██████████| 3/3 [00:03<00:00,  1.18s/it]
+Train encodings: min=0.0070, max=0.9897
+Val encodings: min=0.0161, max=0.9763
+ Validation Loss = 0.0051, Train Loss = 0.0061
+Stopping early at epoch 46
+Epoch 47/50: 100%|██████████| 3/3 [00:03<00:00,  1.12s/it]
+Train encodings: min=0.0164, max=0.9870
+Val encodings: min=0.0188, max=0.9802
+ Validation Loss = 0.0052, Train Loss = 0.0257
+Stopping early at epoch 47
+Epoch 48/50: 100%|██████████| 3/3 [00:03<00:00,  1.18s/it]
+Train encodings: min=0.0114, max=0.9913
+Val encodings: min=0.0156, max=0.9818
+ Validation Loss = 0.0051, Train Loss = 0.0075
+Stopping early at epoch 48
+Epoch 49/50: 100%|██████████| 3/3 [00:04<00:00,  1.39s/it]
+Train encodings: min=0.0126, max=0.9857
+Val encodings: min=0.0222, max=0.9855
+ Validation Loss = 0.0048, Train Loss = 0.0161
+Stopping early at epoch 49
+Epoch 50/50: 100%|██████████| 3/3 [00:03<00:00,  1.19s/it]
+Train encodings: min=0.0066, max=0.9861
+Val encodings: min=0.0167, max=0.9798
+ Validation Loss = 0.0051, Train Loss = 0.0051
+Stopping early at epoch 50

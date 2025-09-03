@@ -1,0 +1,27 @@
+{"time":"2025-08-26T09:55:48.7272635+02:00","level":"INFO","msg":"stream: starting","core version":"0.21.1"}
+{"time":"2025-08-26T09:55:49.4991727+02:00","level":"INFO","msg":"stream: created new stream","id":"1gzoh4i4"}
+{"time":"2025-08-26T09:55:49.4991727+02:00","level":"INFO","msg":"stream: started","id":"1gzoh4i4"}
+{"time":"2025-08-26T09:55:49.4997569+02:00","level":"INFO","msg":"writer: started","stream_id":"1gzoh4i4"}
+{"time":"2025-08-26T09:55:49.4991727+02:00","level":"INFO","msg":"sender: started","stream_id":"1gzoh4i4"}
+{"time":"2025-08-26T09:55:49.4991727+02:00","level":"INFO","msg":"handler: started","stream_id":"1gzoh4i4"}
+{"time":"2025-08-26T09:56:19.9175869+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-08-26T09:56:49.9036407+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-08-26T09:57:19.9344621+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-08-26T09:57:34.9210373+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-08-26T09:57:49.9408174+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-08-26T09:58:04.9032241+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-08-26T09:58:19.9063297+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-08-26T09:58:34.902069+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-08-26T09:58:49.9080187+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-08-26T09:59:04.9080799+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-08-26T09:59:19.9409832+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-08-26T09:59:34.9075758+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-08-26T10:00:04.9266418+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-08-26T10:00:19.9083558+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-08-26T10:00:34.9609018+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-08-26T10:00:39.6156681+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.5872764,"progress":"41B/41B"},{"desc":"uploading output.log","runtime_seconds":0.5825525,"progress":"1.3KB/1.3KB"}],"total_operations":2}}
+{"time":"2025-08-26T10:00:40.3844356+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-08-26T10:00:40.7706028+02:00","level":"INFO","msg":"stream: closing","id":"1gzoh4i4"}
+{"time":"2025-08-26T10:00:40.7746415+02:00","level":"INFO","msg":"handler: closed","stream_id":"1gzoh4i4"}
+{"time":"2025-08-26T10:00:40.7786729+02:00","level":"INFO","msg":"sender: closed","stream_id":"1gzoh4i4"}
+{"time":"2025-08-26T10:00:40.7786729+02:00","level":"INFO","msg":"stream: closed","id":"1gzoh4i4"}
