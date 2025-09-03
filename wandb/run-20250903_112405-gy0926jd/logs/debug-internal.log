@@ -4,3 +4,23 @@
 {"time":"2025-09-03T11:24:07.4284979+02:00","level":"INFO","msg":"sender: started","stream_id":"gy0926jd"}
 {"time":"2025-09-03T11:24:07.4290334+02:00","level":"INFO","msg":"stream: started","id":"gy0926jd"}
 {"time":"2025-09-03T11:24:07.4284979+02:00","level":"INFO","msg":"handler: started","stream_id":"gy0926jd"}
+{"time":"2025-09-03T11:24:37.7628819+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T11:24:52.7629857+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T11:25:07.7611178+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T11:25:22.7691743+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T11:25:52.7746207+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T11:26:07.7649495+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T11:26:22.7600448+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T11:26:37.7620234+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T11:26:52.7677886+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T11:27:07.7630016+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T11:27:22.7609274+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T11:27:37.7606412+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T11:27:52.7643601+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T11:28:07.7654885+02:00","level":"ERROR","msg":"monitor: error sampling metrics: Incorrect function."}
+{"time":"2025-09-03T11:46:25.2690761+02:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-09-03T11:46:25.3881064+02:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 19-19, summary, console lines 107-110","runtime_seconds":0.1134049}],"total_operations":1}}
+{"time":"2025-09-03T11:46:26.5186313+02:00","level":"INFO","msg":"stream: closing","id":"gy0926jd"}
+{"time":"2025-09-03T11:46:26.5198947+02:00","level":"INFO","msg":"handler: closed","stream_id":"gy0926jd"}
+{"time":"2025-09-03T11:46:26.5276304+02:00","level":"INFO","msg":"sender: closed","stream_id":"gy0926jd"}
+{"time":"2025-09-03T11:46:26.5276304+02:00","level":"INFO","msg":"stream: closed","id":"gy0926jd"}

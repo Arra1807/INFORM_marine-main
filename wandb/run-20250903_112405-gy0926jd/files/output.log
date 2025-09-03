@@ -77,4 +77,35 @@ Epoch 12/20: 100%|██████████| 2/2 [00:45<00:00, 22.83s/it]
 Train encodings: min=0.0248, max=0.9450
 Val latents: min=0.0527, max=0.8947
  Train Loss = 0.0229 ,Validation Loss = 0.0290
-Epoch 13/20:  50%|█████     | 1/2 [00:35<
+Epoch 13/20: 100%|██████████| 2/2 [01:02<00:00, 31.41s/it]
+Train encodings: min=0.0189, max=0.9572
+Val latents: min=0.0470, max=0.9049
+ Train Loss = 0.0224 ,Validation Loss = 0.0254
+Epoch 14/20: 100%|██████████| 2/2 [01:29<00:00, 44.89s/it]
+Train encodings: min=0.0149, max=0.9655
+Val latents: min=0.0427, max=0.9128
+ Train Loss = 0.0206 ,Validation Loss = 0.0234
+Epoch 15/20: 100%|██████████| 2/2 [00:44<00:00, 22.49s/it]
+Train encodings: min=0.0123, max=0.9712
+Val latents: min=0.0407, max=0.9170
+ Train Loss = 0.0181 ,Validation Loss = 0.0204
+Epoch 16/20: 100%|██████████| 2/2 [00:42<00:00, 21.30s/it]
+Train encodings: min=0.0118, max=0.9727
+Val latents: min=0.0410, max=0.9173
+ Train Loss = 0.0175 ,Validation Loss = 0.0208
+Epoch 17/20: 100%|██████████| 2/2 [00:35<00:00, 17.93s/it]
+Train encodings: min=0.0120, max=0.9726
+Val latents: min=0.0424, max=0.9152
+ Train Loss = 0.0174 ,Validation Loss = 0.0198
+Epoch 18/20: 100%|██████████| 2/2 [00:46<00:00, 23.14s/it]
+Train encodings: min=0.0129, max=0.9713
+Val latents: min=0.0442, max=0.9116
+ Train Loss = 0.0165 ,Validation Loss = 0.0190
+Epoch 19/20: 100%|██████████| 2/2 [00:46<00:00, 23.03s/it]
+Train encodings: min=0.0149, max=0.9687
+Val latents: min=0.0456, max=0.9087
+ Train Loss = 0.0159 ,Validation Loss = 0.0181
+Epoch 20/20: 100%|██████████| 2/2 [00:47<00:00, 23.87s/it]
+Train encodings: min=0.0168, max=0.9663
+Val latents: min=0.0483, max=0.9034
+ Train Loss = 0.0152 ,Validation Loss = 0.0173

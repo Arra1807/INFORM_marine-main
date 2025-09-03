@@ -14,6 +14,8 @@ def train_val_encoder(model, optimizer, Loss_func, num_epochs, train_dataloader,
     stop_epoch = None
     model.to(device)
     
+    wandb.watch(model, log="all", log_freq=100)
+    
     #---Training---
     for epoch in range(num_epochs):
         model.train()
@@ -86,10 +88,10 @@ def train_val_encoder(model, optimizer, Loss_func, num_epochs, train_dataloader,
                 'Optimizer': optimizer, 
                 'Loss_func': Loss_func, 
                 'Epochs:': num_epochs,
+                'best_val_loss': best_val_loss,
             }
         torch.save(best_state, best_model_path)
-            
-            #print(f'Saved new best model at epoch {epoch+1} with val_loss = {val_avg_loss:.4f}')
+        #print(f'Saved new best model at epoch {epoch+1} with val_loss = {val_avg_loss:.4f}')
 
             
         #Logging Hyperparameters
@@ -97,6 +99,8 @@ def train_val_encoder(model, optimizer, Loss_func, num_epochs, train_dataloader,
             'epoch': epoch+1, 
             'train_loss':  train_avg_loss,
             'val_loss': val_avg_loss,
+            'Checkpoint/saved_at_epoch': epoch + 1,
+            'Checkpoint/best_val_loss': best_val_loss
         })
 
     run.finish()

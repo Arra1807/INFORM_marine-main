@@ -1,0 +1,28 @@
+{
+  "os":  "Windows-10-10.0.26100-SP0",
+  "python":  "CPython 3.11.4",
+  "startedAt":  "2025-09-03T16:34:16.621712Z",
+  "program":  "c:\\Users\\shado\\Documents\\Master Thesis\\INFORM_marine-main_new\\INFORM_marine-main\\data_patching.ipynb",
+  "codePath":  "data_patching.ipynb",
+  "codePathLocal":  "data_patching.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Arra1807/INFORM_marine-main.git",
+    "commit":  "a5e6848e15bcd3bbc05a71c041525d9c1e01514f"
+  },
+  "email":  "arangan18@hotmail.com",
+  "root":  "c:\\Users\\shado\\Documents\\Master Thesis\\INFORM_marine-main_new\\INFORM_marine-main",
+  "host":  "Asus",
+  "executable":  "c:\\Users\\shado\\anaconda3\\python.exe",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "510665232384",
+      "used":  "264923009024"
+    }
+  },
+  "memory":  {
+    "total":  "6387490816"
+  },
+  "writerId":  "llezv7yx38a2lfvv7zorw2wxagkt6a2t"
+}

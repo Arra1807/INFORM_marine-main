@@ -1,0 +1,51 @@
+Number of patches per echogram for training: [8, 8, 7, 7, 7, 10, 16, 9]
+Number of patches per echogram for testing: [8, 21]
+Total number of training patches: 72
+Total number of testing patches: 29
+No such comm: a0b530a338a4478ba0f787992deb0eca
+No such comm: bace5afb3cc645ecb44f6c75354bc77e
+No such comm: 8791738aa78c484182d2c58e9ab7fbdc
+No such comm: b4dab0f6de8b474589e487e08d9c884f
+No such comm: cc8ffaaf01f8407a81f55ae93393765d
+No such comm: a2e66f14a45d4d37afb9ec2ad5463d42
+No such comm: 570123f646cc48e4a607565b3322c23c
+No such comm: a4afc32dfe5d46b4a73e4cb9f7115805
+No such comm: 3e3a9ab2a47d4c10aa85ecc1514856e5
+No such comm: 1466494d22464cd8a3f447378817d2da
+No such comm: 9b5d069c9e5a40c0ae88e1669cc6413e
+No such comm: 2099206ea7ea414dafee974e7b316816
+No such comm: 06368230fb56439bbe698f1569f5dad0
+No such comm: 0d2fd5adb7e6465db5a827090253c4c2
+No such comm: 973faf0b8f244e808f3b78a1e24a7d96
+No such comm: 7c187a5e83704fb298096211439ab414
+-------Dimensions for Training set-------------
+data shape: torch.Size([9, 6, 224, 224])
+data shape: torch.Size([63, 6, 224, 224])
+-------Dimensions for Test set-------------
+Shape of all training data: torch.Size([72, 6, 224, 224])
+Shape of all validation data: torch.Size([29, 6, 224, 224])
+LR: 0.001
+Weight decay: 0.0001
+Epochs: 20
+Epoch 1/20: 100%|██████████| 2/2 [00:51<00:00, 25.54s/it]
+Train encodings: min=0.0001, max=0.9998
+Val latents: min=0.0003, max=0.9995
+ Train Loss = 0.1235 ,Validation Loss = 0.1063
+Epoch 2/20: 100%|██████████| 2/2 [00:23<00:00, 11.80s/it]
+Train encodings: min=0.0005, max=0.9989
+Val latents: min=0.0015, max=0.9970
+ Train Loss = 0.0883 ,Validation Loss = 0.0772
+Epoch 3/20: 100%|██████████| 2/2 [00:22<00:00, 11.25s/it]
+Train encodings: min=0.0019, max=0.9961
+Val latents: min=0.0071, max=0.9859
+ Train Loss = 0.0613 ,Validation Loss = 0.0593
+Epoch 4/20: 100%|██████████| 2/2 [00:22<00:00, 11.21s/it]
+Train encodings: min=0.0090, max=0.9821
+Val latents: min=0.0233, max=0.9535
+ Train Loss = 0.0435 ,Validation Loss = 0.0424
+Epoch 5/20: 100%|██████████| 2/2 [00:31<00:00, 15.80s/it]
+Train encodings: min=0.0249, max=0.9502
+Val latents: min=0.0254, max=0.9492
+ Train Loss = 0.0359 ,Validation Loss = 0.0340
+Epoch 6/20: 100%|██████████| 2/2 [07:39<00:00, 229.68s/it]
+Train encodings: min=0.0238, max=0.9525

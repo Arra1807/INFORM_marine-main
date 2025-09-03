@@ -1,0 +1,19 @@
+{"time":"2025-09-03T12:47:17.3371753+02:00","level":"INFO","msg":"stream: starting","core version":"0.21.1"}
+{"time":"2025-09-03T12:47:18.1378237+02:00","level":"INFO","msg":"stream: created new stream","id":"zxahjtkj"}
+{"time":"2025-09-03T12:47:18.1384497+02:00","level":"INFO","msg":"writer: started","stream_id":"zxahjtkj"}
+{"time":"2025-09-03T12:47:18.1384497+02:00","level":"INFO","msg":"sender: started","stream_id":"zxahjtkj"}
+{"time":"2025-09-03T12:47:18.1384497+02:00","level":"INFO","msg":"stream: started","id":"zxahjtkj"}
+{"time":"2025-09-03T12:47:18.1384497+02:00","level":"INFO","msg":"handler: started","stream_id":"zxahjtkj"}
+{"time":"2025-09-03T12:58:20.4422199+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/arangan18-university-of-oslo/Adapter/zxahjtkj/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-09-03T12:58:26.1875433+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/arangan18-university-of-oslo/Adapter/zxahjtkj/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-09-03T12:58:30.798253+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/arangan18-university-of-oslo/Adapter/zxahjtkj/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-09-03T12:58:40.3954245+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/arangan18-university-of-oslo/Adapter/zxahjtkj/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-09-03T12:58:51.498711+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-09-03T12:58:54.698295+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-09-03T12:58:58.9023097+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/arangan18-university-of-oslo/Adapter/zxahjtkj/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-09-03T12:58:58.946932+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-09-03T12:59:08.6537049+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-09-03T12:59:31.8131825+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-09-03T12:59:38.5577204+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/arangan18-university-of-oslo/Adapter/zxahjtkj/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-09-03T13:00:11.5155297+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-09-03T13:00:39.0024092+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/arangan18-university-of-oslo/Adapter/zxahjtkj/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
